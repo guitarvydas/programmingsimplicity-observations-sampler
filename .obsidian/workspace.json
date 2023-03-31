@@ -23,9 +23,11 @@
             "id": "77a4e36d2ff80c4d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "manuscript/resources/Control-Flow-Copy-1.png"
+                "file": "manuscript/control-flow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/resources/Control-Flow-Copy-1.png",
+                "file": "manuscript/control-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/resources/Control-Flow-Copy-1.png",
+                "file": "manuscript/control-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/resources/Control-Flow-Copy-1.png"
+                "file": "manuscript/control-flow.md"
               }
             }
           }
@@ -158,10 +160,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77a4e36d2ff80c4d",
+  "active": "1dff3b42d040a094",
   "lastOpenFiles": [
+    "manuscript/resources/Control-Flow-Copy-1.png",
     "manuscript/control-flow.md",
-    "manuscript/resources/Control-Flow-copy-2.png",
+    "manuscript/resources/Control-Flow-Copy-2.png",
     "Control-Flow-2.png.md",
     "manuscript/book.md",
     "manuscript/the-holy-grail.md",
