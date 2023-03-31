@@ -1,6 +1,8 @@
 # The Holy Grail of Software Development
 ## Video
 
+![video](https://youtube.com/watch?t=3Y3Zfpj_QSY)
+
 ## Transcript
 
 The holy grail of software development. What is the holy grail? It's simple. We wanna build a piece of software and forget how it works. We just want to use it. We want to design it, bench, test it, then ship it with no further bugs in the field. This is possible. And digital hardware design, you could design, debug a design on a bench, ship it, and we would have zero bugs in the.
