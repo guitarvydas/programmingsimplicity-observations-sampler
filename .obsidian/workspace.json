@@ -222,9 +222,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2322dc1f7e39c5d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5880b409b545c493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -290,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +354,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/test.md"
               }
             }
           }
@@ -352,10 +376,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b04031840affaac",
+  "active": "5880b409b545c493",
   "lastOpenFiles": [
-    "manuscript/programming-is-not-coding.md",
     "manuscript/book.md",
+    "manuscript/test.md",
+    "manuscript/control-flow.md",
+    "manuscript/the-holy-grail.md",
+    "manuscript/prolog-for-programmers.md",
+    "manuscript/book 1.md",
+    "manuscript/programming-is-not-coding.md",
     "zacs picks.md",
     "manuscript/agile-takeaways.md",
     "README.md",
@@ -371,7 +400,6 @@
     "manuscript/resources/PathBC.md",
     "manuscript/resources/diagrams-sync.png",
     "meta.md",
-    "manuscript/the-holy-grail.md",
     "manuscript/triples.md",
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "Pasted image 20230329220438.png",
@@ -379,8 +407,6 @@
     "manuscript/fdd.md",
     "exports/2012-04-12-Recursive Iterative Design By Example.pdf",
     "exports",
-    "manuscript/prolog-for-programmers.md",
-    "manuscript/control-flow.md",
     "video/control flow/Control Flow (less editing).mp4",
     "video/control flow/Control Flow (edited).mp4",
     "video/holy grail/The Holy Grail (less editing).mp4",
