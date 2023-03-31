@@ -2,6 +2,8 @@
 
 ## Slides
 
+![Control Flow 1](Control-Flow-Copy-1.png)
+
 ## Transcript
 
 I'm gonna talk about control flow. This is a map of where we're going. I'm gonna simplify it. I break control flow up into three main categories, sequential, non sequential, and then envelope or what we call multitasking these days. 
