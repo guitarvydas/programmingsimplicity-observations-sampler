@@ -23,11 +23,9 @@
             "id": "77a4e36d2ff80c4d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "manuscript/control-flow.md",
-                "mode": "source",
-                "source": false
+                "file": "manuscript/resources/Control-Flow-Copy-1.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/control-flow.md",
+                "file": "manuscript/resources/Control-Flow-Copy-1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/control-flow.md",
+                "file": "manuscript/resources/Control-Flow-Copy-1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/control-flow.md"
+                "file": "manuscript/resources/Control-Flow-Copy-1.png"
               }
             }
           }
@@ -162,8 +160,10 @@
   },
   "active": "77a4e36d2ff80c4d",
   "lastOpenFiles": [
-    "manuscript/book.md",
     "manuscript/control-flow.md",
+    "manuscript/resources/Control-Flow-copy-2.png",
+    "Control-Flow-2.png.md",
+    "manuscript/book.md",
     "manuscript/the-holy-grail.md",
     "manuscript/control-flow 1.md",
     "zacs picks.md",
@@ -201,12 +201,9 @@
     "manuscript/resources/SyncVsAsync-WhatHappens.png",
     "manuscript/resources/SyncVsAsync-SimpleDiagram.png",
     "manuscript/resources/SyncVsAsync-AsyncDelivery1.png",
-    "manuscript/resources/SyncVsAsync-AfterAsyncDelivery1.png",
     "manuscript/resources/PathBC.md",
     "manuscript/book 1.md",
     "manuscript/agile-takeaways.md",
-    "manuscript/scalability.md",
-    "manuscript/Insidious Form of Dependency.md",
-    "manuscript/old-reality-vs-new-reality.md"
+    "manuscript/scalability.md"
   ]
 }

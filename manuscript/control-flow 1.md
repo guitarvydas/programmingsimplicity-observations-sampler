@@ -5,7 +5,7 @@
 ![Control Flow 1](resources/Control-Flow-Copy-1.png)
 
 ---
-![[Control Flow copy 2.png]]
+![[Control-Flow-copy-2.png]]
 
 ---
 ![[Control Flow copy 3.png]]
