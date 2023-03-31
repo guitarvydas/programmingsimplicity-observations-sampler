@@ -1,10 +1,4 @@
 # Control Flow
-## Video
-
-tbd
-
-## Slides
-tbd
 
 
 ## Transcript
