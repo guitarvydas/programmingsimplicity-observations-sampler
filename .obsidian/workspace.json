@@ -210,9 +210,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2005813b040d038",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/the-holy-grail.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -340,11 +352,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ce8e532b00ed033",
+  "active": "b2005813b040d038",
   "lastOpenFiles": [
+    "manuscript/the-holy-grail 1.md",
+    "manuscript/the-holy-grail.md",
     "manuscript/book.md",
     "manuscript/control-flow.md",
-    "manuscript/the-holy-grail.md",
     "manuscript/prolog-for-programmers.md",
     "manuscript/book 1.md",
     "manuscript/test.md",
