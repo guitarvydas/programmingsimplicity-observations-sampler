@@ -1,0 +1,2 @@
+#!/bin/bash
+curl -d "api_key=YA87F5472D2484FD9A99D717F5CCFBA13" https://leanpub.com/SLUG/preview.json

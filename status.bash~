@@ -1,0 +1,2 @@
+#!/bin/bash
+curl "https://leanpub.com/SLUG/job_status?api_key=YA87F5472D2484FD9A99D717F5CCFBA13"
