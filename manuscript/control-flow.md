@@ -1,7 +1,7 @@
 # Control Flow
 
 ## Slides
-Thia slide ia blank...
+This slide is blank...
 
 ![Control Flow 1](resources/Control-Flow-Copy-1.png)
 
