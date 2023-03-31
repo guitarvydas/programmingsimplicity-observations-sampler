@@ -8,211 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "85000f92a13386d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zacs picks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e509b7fd34987d65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/scalability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ee01681b5bbd8a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/scalability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "507c2a855b1a7642",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zacs picks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dcbde73b4f277fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/scalability.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de19d1883fdc4f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/control-flow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "757f9ad1491329b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/5-whys-of-software-components.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab7f93118e8454fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "zacs picks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "768f71ea8a5a164b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/the-holy-grail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4d42ccd330828dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/the-holy-grail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b20c1580f09d1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/the-holy-grail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4cb93b1de826dfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/why-do-we-use-text-for-programming-languages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1258d8fed6f5d705",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/triples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c44ff2b5c04f217c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/the-holy-grail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03e7207933dad93c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "meta.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb1194658609203c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/book 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ce8e532b00ed033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/the-holy-grail.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2005813b040d038",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -223,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -352,51 +147,51 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b2005813b040d038",
+  "active": "ab7f93118e8454fd",
   "lastOpenFiles": [
-    "manuscript/book.md",
-    "manuscript/resources/Control-Flow-Copy-1.png",
-    "manuscript/control-flow.md",
-    "manuscript/book 1.md",
-    "manuscript/the-holy-grail 1.md",
-    "manuscript/the-holy-grail.md",
-    "manuscript/prolog-for-programmers.md",
-    "manuscript/test.md",
-    "manuscript/programming-is-not-coding.md",
     "zacs picks.md",
-    "manuscript/agile-takeaways.md",
+    "Pasted image 20230329220438.png",
+    "exports/2012-04-12-Recursive Iterative Design By Example.pdf",
+    "exports",
     "README.md",
-    "manuscript/factbases.md",
+    "meta.md",
+    "video/holy grail/The Holy Grail.mp4",
+    "video/holy grail/pslogo-Holy Grail.png",
+    "video/holy grail/The Holy Grail raw.mp4",
+    "video/holy grail/The Holy Grail (less editing).mp4",
+    "video/holy grail",
+    "video/pslogo.drawio",
+    "video/PROLOG For Programmers/pslogo-PROLOG For Programmers.png",
+    "video/PROLOG For Programmers/PROLOG For Programmers (Feb 22, 2021).mov",
+    "video/PROLOG For Programmers/PROLOG For Programmers.mp4",
+    "video/PROLOG For Programmers",
+    "video/control flow/pslogo-Control Flow.png",
+    "manuscript/git -could-do-more.md",
     "manuscript/universal-datatype.md",
+    "manuscript/fdd.md",
+    "manuscript/compilers-too-slow.md",
+    "manuscript/triples.md",
+    "manuscript/test.md",
+    "manuscript/control-flow.md",
+    "manuscript/5-whys-of-software-components.md",
+    "manuscript/the-holy-grail 1.md",
+    "manuscript/programming-is-not-coding.md",
+    "manuscript/why-do-we-use-text-for-programming-languages.md",
+    "manuscript/prolog-for-programmers.md",
     "manuscript/call-return-spaghetti.md",
+    "manuscript/factbases.md",
+    "manuscript/the-holy-grail.md",
+    "manuscript/resources/f2_15.gif",
+    "manuscript/resources/diagrams-sync.png",
     "manuscript/resources/SyncVsAsync-WhatHappens.png",
     "manuscript/resources/SyncVsAsync-SimpleDiagram.png",
     "manuscript/resources/SyncVsAsync-AsyncDelivery1.png",
     "manuscript/resources/SyncVsAsync-AfterAsyncDelivery1.png",
-    "manuscript/resources/PathCB.png",
-    "manuscript/resources/PathBC.png",
     "manuscript/resources/PathBC.md",
-    "manuscript/resources/diagrams-sync.png",
-    "meta.md",
-    "manuscript/triples.md",
-    "manuscript/why-do-we-use-text-for-programming-languages.md",
-    "Pasted image 20230329220438.png",
-    "manuscript/compilers-too-slow.md",
-    "manuscript/fdd.md",
-    "exports/2012-04-12-Recursive Iterative Design By Example.pdf",
-    "exports",
-    "video/control flow/Control Flow (less editing).mp4",
-    "video/control flow/Control Flow (edited).mp4",
-    "video/holy grail/The Holy Grail (less editing).mp4",
-    "video/PROLOG For Programmers/pslogo-PROLOG For Programmers.png",
-    "video/PROLOG For Programmers/PROLOG For Programmers.mp4",
-    "manuscript/5-whys-of-software-components.md",
-    "video/PROLOG For Programmers/PROLOG For Programmers (Feb 22, 2021).mp4",
-    "video/PROLOG For Programmers/PROLOG For Programmers (Feb 22, 2021).mov",
-    "video/PROLOG For Programmers",
-    "video/untitled folder",
+    "manuscript/book 1.md",
+    "manuscript/agile-takeaways.md",
     "manuscript/scalability.md",
-    "manuscript/git -could-do-more.md",
+    "manuscript/book.md",
     "manuscript/Insidious Form of Dependency.md",
     "manuscript/old-reality-vs-new-reality.md"
   ]
