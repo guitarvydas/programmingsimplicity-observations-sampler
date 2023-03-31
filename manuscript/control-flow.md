@@ -2,7 +2,7 @@
 ## Video
 ![Control Flow video](https://youtu.be/yFonEUzzg20)
 ## Slides
-![Control Flow 1](resources/Control Flow Copy 1.png)
+![Control Flow 1](resources/Control-Flow-Copy-1.png)
 
 ---
 ![[Control Flow copy 2.png]]

@@ -217,7 +217,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -290,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,7 +330,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/control-flow.md"
               }
             }
           }
@@ -354,9 +354,10 @@
   },
   "active": "b2005813b040d038",
   "lastOpenFiles": [
-    "manuscript/book 1.md",
     "manuscript/book.md",
+    "manuscript/resources/Control-Flow-Copy-1.png",
     "manuscript/control-flow.md",
+    "manuscript/book 1.md",
     "manuscript/the-holy-grail 1.md",
     "manuscript/the-holy-grail.md",
     "manuscript/prolog-for-programmers.md",
@@ -389,7 +390,6 @@
     "video/holy grail/The Holy Grail (less editing).mp4",
     "video/PROLOG For Programmers/pslogo-PROLOG For Programmers.png",
     "video/PROLOG For Programmers/PROLOG For Programmers.mp4",
-    "manuscript/resources/f2_15.gif",
     "manuscript/5-whys-of-software-components.md",
     "video/PROLOG For Programmers/PROLOG For Programmers (Feb 22, 2021).mp4",
     "video/PROLOG For Programmers/PROLOG For Programmers (Feb 22, 2021).mov",
