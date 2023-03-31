@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/control-flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/control-flow.md"
               }
             }
           }
@@ -162,8 +162,8 @@
   },
   "active": "77a4e36d2ff80c4d",
   "lastOpenFiles": [
-    "manuscript/control-flow.md",
     "manuscript/book.md",
+    "manuscript/control-flow.md",
     "manuscript/the-holy-grail.md",
     "manuscript/control-flow 1.md",
     "zacs picks.md",
