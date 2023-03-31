@@ -1,9 +1,9 @@
 # Control Flow
 
 ## Slides
-These slides are blank...
+Thia slide ia blank...
 
-![Control Flow 1](Control-Flow-Copy-1.png)
+![Control Flow 1](resources/Control-Flow-Copy-1.png)
 
 
 ## Transcript
