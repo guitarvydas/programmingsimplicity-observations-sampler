@@ -1,12 +1,41 @@
 # Control Flow
 ## Video
-
-tbd
+![Control Flow video](https://youtu.be/yFonEUzzg20)
+## Slides
+![Control Flow 1](resources/Control-Flow-Copy-1.png)
 
 ---
+![[Control Flow copy 2.png]]
 
-## Slides
-tbd
+---
+![[Control Flow copy 3.png]]
+
+---
+![[Control Flow copy 4.png]]
+
+---
+![[Control Flow copy 5.png]]
+
+---
+![[Control Flow copy 6.png]]
+
+---
+![[Control Flow copy 7.png]]
+
+---
+![[Control Flow copy 8.png]]
+
+---
+![[Control Flow copy 9.png]]
+
+---
+![[Control Flow copy 10.png]]
+
+---
+![[Control Flow copy 11.png]]
+
+---
+![[Control Flow copy 12.png]]
 
 ---
 
