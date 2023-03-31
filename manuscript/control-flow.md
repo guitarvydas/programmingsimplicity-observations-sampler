@@ -1,7 +1,9 @@
 # Control Flow
 ## Video
 
-tbd
+
+![Holy Grail video](https://youtu.be/3Y3Zfpj_QSY)
+
 
 ---
 
