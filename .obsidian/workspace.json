@@ -205,7 +205,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/the-holy-grail.md",
                 "mode": "source",
                 "source": false
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/the-holy-grail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/the-holy-grail.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/the-holy-grail.md"
               }
             }
           }
@@ -342,8 +342,8 @@
   },
   "active": "1ce8e532b00ed033",
   "lastOpenFiles": [
-    "manuscript/control-flow.md",
     "manuscript/book.md",
+    "manuscript/control-flow.md",
     "manuscript/the-holy-grail.md",
     "manuscript/prolog-for-programmers.md",
     "manuscript/book 1.md",
