@@ -1,7 +1,7 @@
 # The Holy Grail of Software Development
 ## Video
 
-![video](https://youtube.com/watch?t=3Y3Zfpj_QSY)
+![Holy Grail video](https://youtu.be/3Y3Zfpj_QSY)
 
 ## Transcript
 
