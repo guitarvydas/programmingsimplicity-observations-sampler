@@ -1,12 +1,54 @@
 # Control Flow
 
 ## Slides
-This slide is not blank (JPEG)...
-![Control Flow 1 JPEG](Control-Flow-Copy-1j.jpg)
-This slide is blank (PNG)...
-![Control Flow 1 JPEG](Control-Flow-1.png)
-This slide is not blank (JPEG)...
-![ffmpeg generated  (ffmpeg -i Control-Flow-1.png test.jpg) JPEG](test.jpg)
+![Control Flow 1](cf1.jpg)
+
+---
+
+![Control Flow 2](cf2.jpg)
+
+---
+
+![Control Flow 3](cf3.jpg)
+
+---
+
+![Control Flow 4](cf4.jpg)
+
+---
+
+![Control Flow 5](cf5.jpg)
+
+---
+
+![Control Flow 6](cf6.jpg)
+
+---
+
+![Control Flow 7](cf7.jpg)
+
+---
+
+![Control Flow 8](cf8.jpg)
+
+---
+
+![Control Flow 9](cf9.jpg)
+
+---
+
+![Control Flow 10](cf10.jpg)
+
+---
+
+![Control Flow 11](cf11.jpg)
+
+---
+
+![Control Flow 12](cf12.jpg)
+
+---
+
 
 
 

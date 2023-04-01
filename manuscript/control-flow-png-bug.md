@@ -5,6 +5,9 @@ This slide is not blank (JPEG)...
 ![Control Flow 1 JPEG](Control-Flow-Copy-1j.jpg)
 This slide is blank (PNG)...
 ![Control Flow 1 JPEG](Control-Flow-1.png)
+This slide is not blank (JPEG)...
+![ffmpeg generated  (ffmpeg -i Control-Flow-1.png test.jpg) JPEG](test.jpg)
+
 
 
 ## Transcript
