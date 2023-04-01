@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "2c30be6af11244ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "manuscript/git-could-do-more.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "74c4d7ed7cc99c5e",
             "type": "leaf",
             "state": {
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,26 +174,28 @@
   },
   "active": "74c4d7ed7cc99c5e",
   "lastOpenFiles": [
+    "manuscript/resources/cf7.jpg",
+    "manuscript/resources/Control Flow Copy 2.png",
+    "manuscript/resources/cf9.jpg",
+    "manuscript/resources/cf8.jpg",
+    "manuscript/resources/cf5.jpg",
+    "manuscript/resources/test.jpg",
+    "manuscript/resources/convert2jpg.bash",
+    "manuscript/resources/cf6.jpg",
+    "manuscript/resources/cf4.jpg",
+    "manuscript/resources/cf3.jpg",
+    "manuscript/resources/cf12.jpg",
+    "manuscript/resources/cf2.jpg",
+    "manuscript/git-could-do-more.md",
+    "dryvscbp.md",
     "manuscript/#prolog-for-programmers.md#",
+    "manuscript/git -could-do-more.md",
     "manuscript/book.md",
     "manuscript/prolog-for-programmers.md",
     "manuscript/book 1.md",
     "manuscript/control-flow 1.md",
     "manuscript/control-flow.md",
-    "dryvscbp.md",
-    "manuscript/git-could-do-more.md",
     "manuscript/control-flow-png-bug.md",
-    "manuscript/resources/cf12.jpg",
-    "manuscript/resources/cf11.jpg",
-    "manuscript/resources/cf10.jpg",
-    "manuscript/resources/cf9.jpg",
-    "manuscript/resources/cf8.jpg",
-    "manuscript/resources/cf7.jpg",
-    "manuscript/resources/cf6.jpg",
-    "manuscript/resources/cf5.jpg",
-    "manuscript/resources/cf4.jpg",
-    "manuscript/resources/cf3.jpg",
-    "manuscript/resources/convert2jpg.bash",
     "manuscript/resources/#convert2jpg.bash#",
     "manuscript/resources/Control Flow Copy 1.scap",
     "meta.md",
@@ -215,7 +205,6 @@
     "apikey.txt",
     "status.bash~",
     "status.bash",
-    "gen.bash~",
     "Control-Flow-2.png.md",
     "manuscript/the-holy-grail.md",
     "zacs picks.md",
@@ -230,7 +219,6 @@
     "manuscript/programming-is-not-coding.md",
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "manuscript/call-return-spaghetti.md",
-    "manuscript/factbases.md",
-    "manuscript/resources/PathBC.md"
+    "manuscript/factbases.md"
   ]
 }
