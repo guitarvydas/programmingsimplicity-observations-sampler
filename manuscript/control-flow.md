@@ -1,5 +1,6 @@
 # Control Flow
-
+## Video
+![Control Flow video](https://youtu.be/yFonEUzzg20)
 ## Slides
 ![Control Flow 1](cf1.jpg)
 
