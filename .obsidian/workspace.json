@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/control-flow.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/control-flow.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/control-flow.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/control-flow.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -186,10 +186,11 @@
   },
   "active": "74c4d7ed7cc99c5e",
   "lastOpenFiles": [
+    "manuscript/prolog-for-programmers.md",
+    "manuscript/book.md",
+    "manuscript/book 1.md",
     "manuscript/control-flow 1.md",
     "manuscript/control-flow.md",
-    "manuscript/book 1.md",
-    "manuscript/book.md",
     "dryvscbp.md",
     "manuscript/git-could-do-more.md",
     "manuscript/control-flow-png-bug.md",
@@ -227,7 +228,6 @@
     "manuscript/the-holy-grail 1.md",
     "manuscript/programming-is-not-coding.md",
     "manuscript/why-do-we-use-text-for-programming-languages.md",
-    "manuscript/prolog-for-programmers.md",
     "manuscript/call-return-spaghetti.md",
     "manuscript/factbases.md",
     "manuscript/resources/PathBC.md",
