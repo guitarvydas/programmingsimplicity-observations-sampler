@@ -15,7 +15,7 @@ Dec 9 2020
 /Users/tarvydas/desktop/blogs/imovie
 PROLOG for programmers: /Users/tarvydas/desktop/blogs/imovie
 - local-projects/thinkingprolog
-control flow: /Users/tarvydas/desktop/blogs/blogs20210225/control flow
+control flow: /Users/tarvydas/desktop/blogs/blogs 20210225/control flow
 diviide and conquer: https://www.youtube.com/watch?v=ivVRhJyScjE
 FDD: bogs 20210413, \_posts/2021-04-23-FDD/index.html and /Users/tarvydas/Desktop/blogs/guitarvydas.github.io/assets/2021-04-23-FDD
 ## Descript

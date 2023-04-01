@@ -2,8 +2,7 @@
 
 ## Slides
 This slide is blank...
-
-![Control Flow 1](resources/Control-Flow-Copy-1.png)
+![Control Flow 1 JPEG](Control-Flow-Copy-1j.jpg)
 
 
 ## Transcript
