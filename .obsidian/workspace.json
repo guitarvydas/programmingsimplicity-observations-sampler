@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6bff4cc8c2a8b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/control-flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,10 +172,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "77a4e36d2ff80c4d",
+  "active": "b6bff4cc8c2a8b5f",
   "lastOpenFiles": [
-    "manuscript/resources/Control-Flow-Copy-1j.jpg",
+    "manuscript/control-flow-png-bug.md",
+    "manuscript/control-flow 1.md",
     "manuscript/control-flow.md",
+    "manuscript/resources/Control-Flow-Copy-1j.jpg",
     "manuscript/resources/Control Flow Copy 1.png",
     "manuscript/resources/Control Flow Copy 1.scap",
     "manuscript/resources/Control-Flow-1.png",
@@ -183,7 +197,6 @@
     "Control-Flow-2.png.md",
     "manuscript/book.md",
     "manuscript/the-holy-grail.md",
-    "manuscript/control-flow 1.md",
     "zacs picks.md",
     "Pasted image 20230329220438.png",
     "exports/2012-04-12-Recursive Iterative Design By Example.pdf",
