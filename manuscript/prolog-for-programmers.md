@@ -97,7 +97,7 @@ PROLOGify - Better Relations
 ```
 path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).
 ```
----> 
+->
 ```
 path(A,B,Path) :- inferPath(A,B,[A],Path).
 ```
@@ -108,7 +108,7 @@ path(A,B,Path) :- inferPath(A,B,[A],Path).
 ```
 inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].
 ```
---->
+->
 ```
 inferPath(A,B,P,[B|P]) :- connected(A,B).
 ```
@@ -124,7 +124,7 @@ inferPath(A,B,PriorPath,ResultPath) :-
        NewPath = [ C | PriorPath ],
        inferPath(C,B,NewPath,ResultPath).
 ```
---->
+->
 ```
 inferPath(A,B,Visited,Path) :-
        connected(A,C),           
