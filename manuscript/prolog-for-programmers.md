@@ -18,12 +18,13 @@ miniKanren == Relational
 ---
 
 
-# figure
+**figure**
+
 ![[f2_15.gif]]
 
 ---
 
-# factbase
+**factbase**
 ```
 edge(1,2).
 edge(1,4).
@@ -34,22 +35,42 @@ edge(3,4).
 edge(3,5).
 edge(4,5).
 ```
-# basic relation
+---
+**basic relation**
 ```
 connected(X,Y) :- edge(X,Y).
 connected(X,Y) :- edge(Y,X).
 ```
 
-# alternate basic relation
-connected(X,Y) :- edge(X,Y) ; edge(Y,X).
-# inferring connections
-## Divide and Conquer
-### do-it style
-#### top level
+---
+**alternate basic relation**
+`connected(X,Y) :- edge(X,Y) ; edge(Y,X).`
+
+---
+
+**inferring connections**
+
+---
+
+**Divide and Conquer**
+
+---
+
+**do-it style**
+
+---
+
+**top level**
 `path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).`
-#### base case
+
+---
+
+**base case**
 `inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].`
-#### recursive case
+
+---
+
+**recursive case**
 `inferPath(A,B,PriorPath,ResultPath) :-
        connected(A,C),           
        C \== B,
@@ -57,16 +78,27 @@ connected(X,Y) :- edge(X,Y) ; edge(Y,X).
        NewPath = [ C | PriorPath ],
        inferPath(C,B,NewPath,ResultPath).`  
 
-### PROLOGify - Better Relations
-#### top level
+---
+
+PROLOGify - Better Relations
+
+---
+
+**top level**
 `path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).`
 ---> 
 `path(A,B,Path) :- inferPath(A,B,[A],Path).`
-#### base case
+
+---
+
+**base case**
 `inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].`
 --->
 `inferPath(A,B,P,[B|P]) :- connected(A,B).`
-#### recursive case
+
+---
+
+**recursive case**
 `inferPath(A,B,PriorPath,ResultPath) :-
        connected(A,C),           
        C \== B,
@@ -80,23 +112,28 @@ connected(X,Y) :- edge(X,Y) ; edge(Y,X).
        \+member(C,Visited),
        inferPath(C,B,[C|Visited],Path).`  
 
-
+---
        
 
-# SWIPL at command line
+**SWIPL at command line**
  `swipl
   ?- consult(path).
   ?- path(5,1,R).
   ?- halt.`
   
-# SWIPL in Bash script
+---
+
+**SWIPL in Bash script**
   `#!/bin/bash
   swipl -q \
       -g 'consult(path)' \
       -g 'use_module(library(http/json))' \
       -g 'bagof(R,path(5,1,R),B),write(B),nl.' \
       -g 'halt'`
-# SWIPL with JSON
+	  
+---
+	  
+**SWIPL with JSON**
   `#!/bin/bash
   swipl -q \
       -g 'consult(path)' \
