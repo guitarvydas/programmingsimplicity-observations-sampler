@@ -4,15 +4,17 @@ https://youtu.be/tJddlDKJjmY
 # Slides
 ---
 
-# PROLOG for Programmers Introduction (in PROLOG)
+PROLOG for Programmers Introduction (in PROLOG)
 ---
 
-# using: https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_15.html
+using: https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_15.html
 ---
 
-# Declarative <== Relational
-# PROLOG == Relational
-# miniKanren == Relational
+Declarative <== Relational
+
+PROLOG == Relational
+
+miniKanren == Relational
 ---
 
 
