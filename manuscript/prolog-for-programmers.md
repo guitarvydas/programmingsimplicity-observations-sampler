@@ -1,6 +1,6 @@
 # PROLOG for Programmers Introduction (in PROLOG)
 ## video
-https://youtu.be/tJddlDKJjmY
+![PROLOG for Programmers](https://youtu.be/tJddlDKJjmY)
 
 ## Slides
 
