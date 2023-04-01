@@ -5,9 +5,11 @@ https://youtu.be/tJddlDKJjmY
 ---
 
 PROLOG for Programmers Introduction (in PROLOG)
+
 ---
 
 using: https://www.cpp.edu/~jrfisher/www/prolog_tutorial/2_15.html
+
 ---
 
 Declarative <== Relational
@@ -15,12 +17,11 @@ Declarative <== Relational
 PROLOG == Relational
 
 miniKanren == Relational
+
 ---
 
 
-**figure**
-
-![[f2_15.gif]]
+![figure](resources/f2_15.gif)
 
 ---
 
@@ -44,7 +45,9 @@ connected(X,Y) :- edge(Y,X).
 
 ---
 **alternate basic relation**
-`connected(X,Y) :- edge(X,Y) ; edge(Y,X).`
+```
+connected(X,Y) :- edge(X,Y) ; edge(Y,X).
+```
 
 ---
 
@@ -61,22 +64,28 @@ connected(X,Y) :- edge(Y,X).
 ---
 
 **top level**
-`path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).`
+```
+path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).
+```
 
 ---
 
 **base case**
-`inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].`
+```
+inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].
+```
 
 ---
 
 **recursive case**
-`inferPath(A,B,PriorPath,ResultPath) :-
+```
+inferPath(A,B,PriorPath,ResultPath) :-
        connected(A,C),           
        C \== B,
        \+member(C,PriorPath),
        NewPath = [ C | PriorPath ],
-       inferPath(C,B,NewPath,ResultPath).`  
+       inferPath(C,B,NewPath,ResultPath).
+```
 
 ---
 
@@ -85,61 +94,79 @@ PROLOGify - Better Relations
 ---
 
 **top level**
-`path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).`
+```
+path(A,B,Path) :- BasicPath = [A], inferPath(A,B,BasicPath,Path).
+```
 ---> 
-`path(A,B,Path) :- inferPath(A,B,[A],Path).`
+```
+path(A,B,Path) :- inferPath(A,B,[A],Path).
+```
 
 ---
 
 **base case**
-`inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].`
+```
+inferPath(A,B,P,ResultPath) :- connected(A,B), ResultPath = [B|P].
+```
 --->
-`inferPath(A,B,P,[B|P]) :- connected(A,B).`
+```
+inferPath(A,B,P,[B|P]) :- connected(A,B).
+```
 
 ---
 
 **recursive case**
-`inferPath(A,B,PriorPath,ResultPath) :-
+```
+inferPath(A,B,PriorPath,ResultPath) :-
        connected(A,C),           
        C \== B,
        \+member(C,PriorPath),
        NewPath = [ C | PriorPath ],
-       inferPath(C,B,NewPath,ResultPath).`  
+       inferPath(C,B,NewPath,ResultPath).
+```
 --->
-`inferPath(A,B,Visited,Path) :-
+```
+inferPath(A,B,Visited,Path) :-
        connected(A,C),           
        C \== B,
        \+member(C,Visited),
-       inferPath(C,B,[C|Visited],Path).`  
+       inferPath(C,B,[C|Visited],Path).
+```
 
 ---
        
 
 **SWIPL at command line**
- `swipl
+```
+swipl
   ?- consult(path).
   ?- path(5,1,R).
-  ?- halt.`
+  ?- halt.
+```
   
 ---
 
 **SWIPL in Bash script**
-  `#!/bin/bash
+```
+  #!/bin/bash
   swipl -q \
       -g 'consult(path)' \
       -g 'use_module(library(http/json))' \
       -g 'bagof(R,path(5,1,R),B),write(B),nl.' \
-      -g 'halt'`
+      -g 'halt'
+```
 	  
 ---
 	  
 **SWIPL with JSON**
-  `#!/bin/bash
+```
+#!/bin/bash
   swipl -q \
       -g 'consult(path)' \
       -g 'use_module(library(http/json))' \
       -g 'bagof(R,path(5,1,R),B),json_write(user_output,B),nl.' \
-      -g 'halt'`
+      -g 'halt'
+```
 
 # Transcript
  I am gonna do a quick introduction of PROLOG for programmers using JR Fisher's tutorial. It's on this webpage here. One thing to notice is that we strive to do declarative programming. One form of declarative is relational programming. PROLOG was one of the first attempts at relational programming.

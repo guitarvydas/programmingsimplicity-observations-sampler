@@ -186,6 +186,7 @@
   },
   "active": "74c4d7ed7cc99c5e",
   "lastOpenFiles": [
+    "manuscript/#prolog-for-programmers.md#",
     "manuscript/book.md",
     "manuscript/prolog-for-programmers.md",
     "manuscript/book 1.md",
@@ -230,7 +231,6 @@
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "manuscript/call-return-spaghetti.md",
     "manuscript/factbases.md",
-    "manuscript/resources/PathBC.md",
-    "manuscript/agile-takeaways.md"
+    "manuscript/resources/PathBC.md"
   ]
 }
