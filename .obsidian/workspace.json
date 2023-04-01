@@ -174,9 +174,12 @@
   },
   "active": "b6bff4cc8c2a8b5f",
   "lastOpenFiles": [
+    "manuscript/book 1.md",
+    "manuscript/resources/test.jpg",
+    "manuscript/git-could-do-more.md",
+    "manuscript/control-flow.md",
     "manuscript/control-flow-png-bug.md",
     "manuscript/control-flow 1.md",
-    "manuscript/control-flow.md",
     "manuscript/resources/Control-Flow-Copy-1j.jpg",
     "manuscript/resources/Control Flow Copy 1.png",
     "manuscript/resources/Control Flow Copy 1.scap",
@@ -202,8 +205,6 @@
     "exports/2012-04-12-Recursive Iterative Design By Example.pdf",
     "README.md",
     "video/holy grail/pslogo-Holy Grail.png",
-    "video/PROLOG For Programmers/pslogo-PROLOG For Programmers.png",
-    "manuscript/git -could-do-more.md",
     "manuscript/universal-datatype.md",
     "manuscript/fdd.md",
     "manuscript/compilers-too-slow.md",
@@ -217,8 +218,6 @@
     "manuscript/call-return-spaghetti.md",
     "manuscript/factbases.md",
     "manuscript/resources/PathBC.md",
-    "manuscript/book 1.md",
-    "manuscript/agile-takeaways.md",
-    "manuscript/scalability.md"
+    "manuscript/agile-takeaways.md"
   ]
 }
