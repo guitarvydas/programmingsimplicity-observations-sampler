@@ -1,5 +1,5 @@
 # Git Could Do More
-## **Github, Git, Diff, etc.**
+## Github, Git, Diff, etc.
 
 I consider "github" to be a whole gamut of technologies based on "diff".
 
@@ -9,7 +9,7 @@ I consider "github" to be a whole gamut of technologies based on "diff".
 
 "Github" is a production version of "diff".  
 
-## **Automated DRY**
+## Automated DRY
 
 Github could use "diff" in a bigger way.  Instead of diff'ing lines of code, it should diff layers of design.  (Which might be blocks of code).
 
@@ -26,7 +26,7 @@ Github could include technology to figure out DRY.
 
   
 
-## **Git-based Editors**
+## Git-based Editors
 
 Our editors could figure out repeated lumps of text and make a golden copy for us.
 
