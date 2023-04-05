@@ -1,0 +1,16 @@
+#!/bin/bash
+set -x 
+./ucheck manuscript/assembler.md
+./ucheck manuscript/book_testing.md
+./ucheck manuscript/breadboards.md
+./ucheck manuscript/compilers.md
+./ucheck manuscript/early_machines.md
+./ucheck manuscript/early_programming_of_computers.md
+./ucheck manuscript/hci_-_keyboards_and_displays.md
+./ucheck manuscript/high_level_languages.md
+./ucheck manuscript/high_level_machines.md
+./ucheck manuscript/intro.md
+./ucheck manuscript/miniaturization.md
+./ucheck manuscript/other_syntaxes.md
+./ucheck manuscript/programming_is_not_coding.md
+./ucheck manuscript/toggle_switches.md
