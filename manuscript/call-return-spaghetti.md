@@ -118,11 +118,11 @@ Version 1 results in the following code path:
 main {
  call B(q)
    B calls C(s)
-     output <— x
+     output <-- x
    C returns to B
   B returns to main
  call C(q)
-    output <— v
+    output <-- v
     C returns to main
 }
 main done
@@ -136,7 +136,7 @@ While version 2 results in the following code path:
 ```
 main () {
   call C(q)
-    output <— v
+    output <-- v
   call B(q)
     B calls C(s)
       output <- x

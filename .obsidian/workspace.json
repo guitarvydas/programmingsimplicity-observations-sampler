@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/call-return-spaghetti.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/call-return-spaghetti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/call-return-spaghetti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/call-return-spaghetti.md"
               }
             }
           }
@@ -198,10 +198,10 @@
   },
   "active": "17a6d6ef6ccb8ed0",
   "lastOpenFiles": [
+    "manuscript/book.md",
     "manuscript/book 1.md",
     "manuscript/control-flow.md",
     "manuscript/the-holy-grail.md",
-    "manuscript/book.md",
     "manuscript/call-return-spaghetti.md",
     "manuscript/obs-book.md",
     "obs-pdf/obs-book.pdf",
