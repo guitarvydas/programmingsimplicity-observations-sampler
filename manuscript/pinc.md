@@ -65,3 +65,17 @@ Revelation: toggle switches had 2 states "OFF" and "ON".
 Revelation: arranging toggle switches in sequential and parallel combinations produced physical equivalents of Boolean Logic (AND and OR functionality).
 
 ![Boolean.svg](resources/Boolean.svg)
+
+
+## Breadboards (Advanced Programming)
+
+
+Breadboards were used to allow moving and reconnecting wires without the need to solder.[^pengxh]
+
+{width: "70%"}
+![Breadboard_in_our_experiment.jpg](resources/Breadboard_in_our_experiment.jpg)
+
+
+[^pengxh]: https://commons.wikimedia.org/wiki/File:Breadboard_in_our_experiment.jpg
+
+This was faster than programming by soldering, but, it was more expensive.
