@@ -1,2 +1,6 @@
 intro.md
 programming_is_not_coding.md
+early_machines.md
+high_level_machines.md
+early_programming_of_computers.md
+toggle_switches.md
