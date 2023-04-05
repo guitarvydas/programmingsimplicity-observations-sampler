@@ -42,7 +42,7 @@ body id234 "Don't forget me this weekend!"
 
 ## Computer Science
 
-All of CS breaks down into triples — something I call "simple".
+All of CS breaks down into triples - something I call "simple".
 
 All of CS has been about trying to optimize triples to save space and CPU.  
 
@@ -71,7 +71,7 @@ Even curried functions are triples
 
 `fn x y -> (fn x) y`
 
-(`fn x) y` -- looks like a double, but is really a triple — relation=fn, subject=x, object=y.  
+(`fn x) y` -- looks like a double, but is really a triple - relation=fn, subject=x, object=y.  
 
 `(fn x)` is a double.  
 
