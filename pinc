@@ -14,3 +14,18 @@ set -x
 ./ucheck manuscript/other_syntaxes.md
 ./ucheck manuscript/programming_is_not_coding.md
 ./ucheck manuscript/toggle_switches.md
+
+
+./ucheck manuscript/intro.md
+./ucheck manuscript/programming_is_not_coding.md
+./ucheck manuscript/early_machines.md
+./ucheck manuscript/high_level_machines.md
+./ucheck manuscript/early_programming_of_computers.md
+./ucheck manuscript/toggle_switches.md
+./ucheck manuscript/breadboards.md
+./ucheck manuscript/miniaturization.md
+./ucheck manuscript/hci_-_keyboards_and_displays.md
+./ucheck manuscript/assembler.md
+./ucheck manuscript/high_level_languages.md
+./ucheck manuscript/other_syntaxes.md
+./ucheck manuscript/compilers.md
