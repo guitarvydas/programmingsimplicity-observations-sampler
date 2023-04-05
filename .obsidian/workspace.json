@@ -210,9 +210,14 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/ucheck",
+    "manuscript/#ucheck.c#",
+    "manuscript/a.out",
+    "manuscript/ucheck.c~",
+    "manuscript/ucheck.c",
+    "manuscript/#triples.md#",
     "manuscript/leanpubfail.md~",
     "manuscript/leanpubfail.md",
-    "manuscript/#triples.md#",
     "manuscript/triples 1.md",
     "manuscript/triples.md",
     "manuscript/book.md",
@@ -250,11 +255,6 @@
     "manuscript/resources/cf3.jpg",
     "manuscript/resources/cf12.jpg",
     "manuscript/#prolog-for-programmers.md#",
-    "manuscript/git -could-do-more.md",
-    "manuscript/resources/#convert2jpg.bash#",
-    "manuscript/resources/Control Flow Copy 1.scap",
-    "#junk.json#",
-    "preview.bash~",
-    "preview.bash"
+    "manuscript/git -could-do-more.md"
   ]
 }

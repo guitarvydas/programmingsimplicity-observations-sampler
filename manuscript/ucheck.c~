@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+main (argc, argv) {
+  FILE *f = fopen (argv[1]);
+  unsigned int c = getc (f);
+  while (c != EOF) {
+    if (c > 128) {
+      printf ("unicode found %d\n", c);
+    }
+    c = getc (f);
+  }
+}
+
+  
