@@ -1,6 +1,6 @@
-# The Universal Datatype #
+# The Universal Datatype
 
-The Universal Datatype is a relation, e.g.
+The Universal Datatype is a *relation*, e.g.
 
 `relation(subject,object)`
 

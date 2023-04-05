@@ -1,4 +1,4 @@
-## 5 Whys of Software Components
+# 5 Whys of Software Components
 Q1: Why can't we plug software modules together like LEGO® blocks?
 
 A: Because software is too complicated.

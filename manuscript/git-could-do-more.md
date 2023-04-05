@@ -1,4 +1,4 @@
-## Git Could Do More
+# Git Could Do More
 ## **Github, Git, Diff, etc.**
 
 I consider "github" to be a whole gamut of technologies based on "diff".

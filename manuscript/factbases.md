@@ -1,4 +1,4 @@
-# Factbases #
+# Factbases
 
 The trick to automating anything in software is to find a way to normalize the information.
 
