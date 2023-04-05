@@ -2,7 +2,7 @@
 
 Triples are everywhere, albeit optimized into oblivion.
 
-The major simplicity that I have known for years — and unable to express succinctly — is that compiler-people like triples.
+The major simplicity that I have known for years - and unable to express succinctly - is that compiler-people like triples.
 
 I, also, call this "divide and conquer".  [If you think of a better way to say that, let me know!].
 
@@ -20,7 +20,7 @@ https://www.iro.umontreal.ca/~lapalme/ForestInsteadOfTheTrees/HTML/ch07s01.html
 
 An example is given here 
 
-https://www.javatpoint.com/xml-example
+(from [](https://www.javatpoint.com/xml-example))
 
 ```
 <?xml version="1.0" encoding="ISO-8859-1"?>  
@@ -71,7 +71,7 @@ Even curried functions are triples
 
 `fn x y -> (fn x) y`
 
-(`fn x) y` -- looks like a double, but is really a triple - relation=fn, subject=x, object=y.  
+(`fn x) y` - looks like a double, but is really a triple - relation=fn, subject=x, object=y.  
 
 `(fn x)` is a double.  
 
