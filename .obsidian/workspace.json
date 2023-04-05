@@ -210,6 +210,7 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/#triples.md#",
     "manuscript/triples 1.md",
     "manuscript/triples.md",
     "manuscript/book.md",
@@ -254,7 +255,6 @@
     "#junk.json#",
     "preview.bash~",
     "preview.bash",
-    "apikey.txt",
-    "Control-Flow-2.png.md"
+    "apikey.txt"
   ]
 }
