@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/git-could-do-more.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/git-could-do-more.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/git-could-do-more.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/git-could-do-more.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -198,6 +198,7 @@
   },
   "active": "17a6d6ef6ccb8ed0",
   "lastOpenFiles": [
+    "manuscript/git-could-do-more.md",
     "manuscript/book.md",
     "manuscript/book 1.md",
     "manuscript/five-whys-of-software-components.md",
@@ -209,7 +210,6 @@
     "manuscript/universal-datatype.md",
     "manuscript/factbases.md",
     "manuscript/dryvscbp.md",
-    "manuscript/git-could-do-more.md",
     "manuscript/call-return-spaghetti.md",
     "manuscript/scalability.md",
     "manuscript/control-flow.md",
