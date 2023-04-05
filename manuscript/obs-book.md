@@ -1,7 +1,7 @@
 [[programming-is-not-coding]]
 [[call-return-spaghetti]]
 [[scalability]]
-[[5-whys-of-software-components]]
+[[five-whys-of-software-components]]
 [[git-could-do-more]]
 [[dryvscbp]]
 [[factbases]]
