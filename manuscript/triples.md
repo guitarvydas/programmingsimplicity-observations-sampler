@@ -9,3 +9,7 @@ I, also, call this "divide and conquer".  [If you think of a better way to say t
 ## XML
 
 AFAIK, xml started out life as triples.  (This doesn't mean that I am right, it is only what I believe) 
+
+[Example of RDF triples](https://www.iro.umontreal.ca/~lapalme/ForestInsteadOfTheTrees/HTML/ch07s01.html).
+
+
