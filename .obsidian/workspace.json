@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b99f37079d18ad4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manuscript/triples.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -196,8 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17a6d6ef6ccb8ed0",
+  "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/triples 1.md",
+    "manuscript/triples.md",
     "manuscript/book.md",
     "manuscript/book 1.md",
     "manuscript/universal-datatype.md",
@@ -207,7 +221,6 @@
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "manuscript/compilers-too-slow.md",
     "manuscript/agile-takeaways.md",
-    "manuscript/triples.md",
     "manuscript/factbases.md",
     "manuscript/dryvscbp.md",
     "manuscript/call-return-spaghetti.md",
@@ -242,7 +255,6 @@
     "preview.bash~",
     "preview.bash",
     "apikey.txt",
-    "Control-Flow-2.png.md",
-    "zacs picks.md"
+    "Control-Flow-2.png.md"
   ]
 }
