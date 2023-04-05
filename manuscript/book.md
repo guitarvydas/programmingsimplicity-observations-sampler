@@ -6,3 +6,4 @@ git-could-do-more.md
 dryvscbp.md
 factbases.md
 universal-datatype.md
+triples.md

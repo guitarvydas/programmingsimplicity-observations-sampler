@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/universal-datatype.md",
+                "file": "manuscript/triples.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/universal-datatype.md",
+                "file": "manuscript/triples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/universal-datatype.md",
+                "file": "manuscript/triples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/universal-datatype.md"
+                "file": "manuscript/triples.md"
               }
             }
           }
@@ -199,15 +199,15 @@
   "active": "17a6d6ef6ccb8ed0",
   "lastOpenFiles": [
     "manuscript/book.md",
-    "manuscript/git-could-do-more.md",
     "manuscript/book 1.md",
+    "manuscript/universal-datatype.md",
+    "manuscript/git-could-do-more.md",
     "manuscript/five-whys-of-software-components.md",
     "manuscript/fdd.md",
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "manuscript/compilers-too-slow.md",
     "manuscript/agile-takeaways.md",
     "manuscript/triples.md",
-    "manuscript/universal-datatype.md",
     "manuscript/factbases.md",
     "manuscript/dryvscbp.md",
     "manuscript/call-return-spaghetti.md",
