@@ -1,13 +1,2 @@
 intro.md
 programming_is_not_coding.md
-early_machines.md
-high_level_machines.md
-early_programming_of_computers.md
-toggle_switches.md
-breadboards.md
-miniaturization.md
-hci_-_keyboards_and_displays.md
-assembler.md
-high_level_languages.md
-other_syntaxes.md
-compilers.md

@@ -210,6 +210,7 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/book-pinc.md",
     "manuscript/book-working.md",
     "#pinc#",
     "manuscript/other_syntaxes.md~",
@@ -254,7 +255,6 @@
     "manuscript/triples 1.md",
     "manuscript/universal-datatype.md",
     "manuscript/git-could-do-more.md",
-    "manuscript/five-whys-of-software-components.md",
-    "manuscript/fdd.md"
+    "manuscript/five-whys-of-software-components.md"
   ]
 }
