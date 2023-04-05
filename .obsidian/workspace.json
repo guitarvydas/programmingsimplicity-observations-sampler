@@ -198,9 +198,10 @@
   },
   "active": "17a6d6ef6ccb8ed0",
   "lastOpenFiles": [
-    "manuscript/book 1.md",
-    "manuscript/book.md",
     "manuscript/call-return-spaghetti.md",
+    "manuscript/scalability.md",
+    "manuscript/book.md",
+    "manuscript/book 1.md",
     "manuscript/control-flow.md",
     "manuscript/the-holy-grail.md",
     "manuscript/obs-book.md",
@@ -242,7 +243,6 @@
     "manuscript/triples.md",
     "manuscript/test.md",
     "manuscript/5-whys-of-software-components.md",
-    "manuscript/programming-is-not-coding.md",
-    "manuscript/why-do-we-use-text-for-programming-languages.md"
+    "manuscript/programming-is-not-coding.md"
   ]
 }

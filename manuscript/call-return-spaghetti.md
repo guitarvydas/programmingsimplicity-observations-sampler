@@ -1,15 +1,12 @@
-Title: Box and Arrow Diagrams  
-Author: Paul Tarvydas
-
 # Call Return Spaghetti
 
-# Introduction #
+## Introduction #
 
 In this essay, I show that a diagram of a Call/Return system makes less sense than a diagram of a concurrent system.
 
 I show the fundamental operation of a concurrent system and argue that it is inherently simpler than a system based on Call/Return.
 
-# Simple System #
+## Simple System #
 
 Fig. 1 contains a diagram of a simple system.
 
@@ -24,7 +21,7 @@ The flow of data within the diagram is shown by arrows.[^fn5]
 
 It appears that we have plugged two software components together to form a system.
 
-# What Happens? #
+## What Happens? #
 
 What Happens When Events Arrive?
 
@@ -43,13 +40,13 @@ Do we see the expected output every time?
 
 Do we see the expected output for every coding of the diagram?
 
-# Current State of the Art #
+## Current State of the Art #
 
-## The Code for Components B and C ##
+### The Code for Components B and C
 
 We can implement the diagram in pseudo-code.
 
-### Function B ###
+#### Function B
 
 ```
 function B(in) {
@@ -63,8 +60,7 @@ function B(in) {
 ```
 Fig. 3 Function B
 
-### Function C ###
-
+#### Function C
 ```
 function C(in) {
   if (in == q) {
@@ -83,7 +79,7 @@ function C(in) {
 ```
 Fig. 4 Function C
 
-## Code Version 1 ##
+### Code Version 1
 
 Version 1 of the code might call component B first:
 
@@ -95,7 +91,7 @@ main () {
 ```
 Fig. 1 Code Version 1
 
-## Code Version 2 ##
+### Code Version 2
 
 Version 2 of the code might call C first:
 
@@ -107,7 +103,7 @@ main () {
  ```
 Fig. 1 Code Version 2
 
-## Final Output ##
+### Final Output
 
 Final Output
 The final output of the preceding routines depends on which version of the code we use.
@@ -152,7 +148,7 @@ The final output for Version 2 if v,x.
 Version 1 and version 2 create different results.
 
 
-## Control Flow ##
+### Control Flow
 
 Fig. 5 shows the control flows for code versions 1 and 2.
 
@@ -160,7 +156,7 @@ Fig. 5 shows the control flows for code versions 1 and 2.
 
 Fig. 5 Control Flow for Versions 1 & 2
 
-# The Desired Outcome #
+## The Desired Outcome
 
 
 We want to plug software components together.[^fn7]
@@ -173,7 +169,7 @@ This is possible.
 
 I will show the event flow that we desire, in a series of diagrams, then, I will discuss how this flow can be achieved[^fn8].
 
-## Event Delivery 1 ##
+### Event Delivery 1
 
 ![](resources/SyncVsAsync-AsyncDelivery1.png)
 Fig. 5 Event q Delivered
@@ -182,7 +178,7 @@ Fig. 5 shows event "q" being delivered to B and C.
 
 Nothing else happens, no routines are called.
 
-## After Event Delivery 1 ##
+### After Event Delivery 1
 
 ![](resources/SyncVsAsync-AfterAsyncDelivery1.png)
 Fig. 5 After Event Delivery 1
@@ -193,7 +189,7 @@ Both, Components B and C have an event "q" at their inputs.
 
 (Neither Component has acted yet).
 
-## Two Possible Control Flow Paths ##
+### Two Possible Control Flow Paths
 
 At this point, two control flow paths are possible:
 
@@ -202,23 +198,23 @@ At this point, two control flow paths are possible:
 
 I will draw a sequence of diagrams for each path.
 
-### B Runs First - Path BC ###
+#### B Runs First - Path BC
 
 ![][PathBC]
 Fig. 6 Control Flow BC
 
-### C Runs First - Path CB ###
+#### C Runs First - Path CB
 
 ![](resources/PathCB.png)
 Fig. 7 Control Flow CB
 
-## Final Result ##
+### Final Result
 
 In both cases, Path BC and Path CB, the final result is the same - v is output first, then x is output.
 
-## Achieving the Desired Result ##
+### Achieving the Desired Result
 
-### Requirements ###
+#### Requirements
 
 1. Components have an input queue, onto which incoming events are placed.[^fn9]
 * Components cannot call one another.
@@ -237,7 +233,7 @@ In addition,
 * Components have no return values.  Send() is used instead.
 * There is no syntax for exceptions[^fn17].  Send() is used instead.
 
-### Using Threads ###
+#### Using Threads
 
 Operating system threads[^fn18] can be used to trivially implement components.
 
@@ -245,7 +241,7 @@ Each Component has a mailbox[^fn19] and it sends messages to it parent[^fn20].  
 
 Note - using threads is overkill.  An operating system based thread involves hardware MMUs[^fn22] and separate stacks.  Operating system threads implement the out-dated notion of time-sharing.  None of these are actually required to make this system work.
 
-#### Fairness ####
+##### Fairness
 
 Fairness is not an issue.
 
@@ -253,13 +249,13 @@ Components run a single incoming event to completion, they yield only to the Dis
 
 This system mimics, more closely, the modern ideas of distributed systems[^fn23].
 
-#### Thread Safety ####
+##### Thread Safety
 
 Thread Safety is not an issue.
 
 Components cannot share memory, hence, thread safety is not an issue.
 
-#### Shared Memory ####
+##### Shared Memory
 
 Shared memory is not an issue.
 
@@ -275,13 +271,13 @@ This system[^fn24] gives the Architect all of the atomic tools necessary to crea
 
 The Architect must make the calculation[^fn25] of whether his/her design is "fast enough" for a given purpose.
 
-#### Priority Inversion ####
+##### Priority Inversion
 
 Priority inversion is not an issue.
 
 I don't use[^fn26], nor specify priorities[^fn27], hence, priority inversion cannot happen.[^fn28]
 
-#### Loops and Recursion ####
+##### Loops and Recursion
 
 It turns out that Looping (and Recursion) is the exception, not the rule.
 
@@ -289,13 +285,13 @@ Components must not enter long-running loops (or deep recursion).  Components mu
 
 The Dispatcher routine is the only routine in the system that runs a loop.  It loops through a list of ready closures and, randomly, invokes a ready closure.  When the closure finishes[^fn29], the Dispatcher simply picks another ready closure to run.
 
-#### Dynamic Routing ####
+##### Dynamic Routing
 
 Dynamic routing is not an issue, because it's not supported.
 
 Dynamic routing used to be called self-modifying code.  Self modifying code is a bad idea.[^fn30]
 
-### Using Closures ###
+#### Using Closures
 
 Most modern languages provide the concept of closures.[^fn31]  Closures might be called anonymous functions, or callbacks, or be embedded in concepts such as futures, etc.
 
@@ -309,21 +305,21 @@ In my opinion, and experience, creating separate stacks for each closure and usi
 
 If one imagines that closures contain state-machines, then, this method could be considered to be a system of communicating state machines.   I think in terms of clockwork[^fn36].
 
-### Other Features ###
+#### Other Features
 
-#### Reuse ####
+##### Reuse
 
 This system emphasizes reuse of Architecture[^fn37].  
 
 Architecture reuse is more valuable than code reuse.
 
-#### Refactoring ####
+##### Refactoring
 
 Software Component Architectures composed in this manner can be easily refactored into other Architectures, simply by moving/deleting/adding arrows.
 
 Components SEND() messages to their parents. Parents contain the routing tables[^fn38].  Parents route messages between their children.  This combination makes refactoring of Architectures easy[^fn39].
 
-#### Isolation ####
+##### Isolation
 
 This system produces a natural hierarchical composition of Architectures.
 
@@ -331,7 +327,7 @@ Parents route messages between their children.
 
 Parents act like Components in all other respects.  Parents cannot SEND() messages to their peers.  They can only SEND() messages upwards to their parents, and route messages of their direct children.
 
-##### Global Variables #####
+###### Global Variables
 
 Global variables are not an issue.
 
@@ -339,7 +335,7 @@ Global variables cannot leak beyond the boundaries of their Components.
 
 Global variables are not a problem, if properly encapsulated.
 
-##### Global Types #####
+###### Global Types
 
 Global Types in synchronous languages are just as bad as Global Variables in those languages.
 
@@ -347,7 +343,7 @@ Global anything is bad.
 
 Encapsulation must be applied to every concept in software architecture.
 
-##### Namespaces #####
+###### Namespaces
 
 A component has two external namespaces:
 
@@ -366,7 +362,7 @@ Namespaces are naturally encapsulated in a hierarchical manner, due to hierarchi
 
 If two Components have exactly the same input namespace and the same output namespace, then the components are considered to be interchangeable, and "pin compatible".[^fn41]
 
-##### Isolation of Control Flow #####
+###### Isolation of Control Flow
 
 Control Flow within Components is naturally isolated by the fact that Components are truly asynchronous.
 
