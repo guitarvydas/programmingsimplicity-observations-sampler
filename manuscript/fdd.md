@@ -197,22 +197,22 @@ Paul Tarvydas, April 2021
 ## Toolbox Languages
 -   [https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
 ---
-## Appendix - Why?
+# Appendix - Why?
 -   I watched Daniel Pink's Masterclass
 -   He suggests asking "why?" repetitively, some 5 times
 	-  to understand the problem more deeply
 ---
-## Appendix - 5 Whys of...
+# Appendix - 5 Whys of...
 -   5 Whys of Multiprocessing: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html)
 -   5 Whys of Full Preemption: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html)
 -   5 Whys of Software Components: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html)
 ---
-## Appendix - Incremental Learning
+# Appendix - Incremental Learning
 -   A debugger can be used to observe the operation of someone else's code (or your own code).
 	-   Stepping through code and interactively examining data structures is one way to understand the intended architecture.
 	-   Fixing other peoples' mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
 ---
-## Appendix - Details Kill
+# Appendix - Details Kill
 -   [https://guitarvydas.github.io/2021/03/17/Details-Kill.html](https://guitarvydas.github.io/2021/03/17/Details-Kill.html)
 -   elide details
 	-   don't delete details, suppress them

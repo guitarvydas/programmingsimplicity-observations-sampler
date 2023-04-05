@@ -165,7 +165,7 @@ swipl
 ```
 
 ## Transcript
- I am gonna do a quick introduction of PROLOG for programmers using JR Fisher's tutorial. It's on this webpage here. One thing to notice is that we strive to do declarative programming. One form of declarative is relational programming. PROLOG was one of the first attempts at relational programming.
+I am gonna do a quick introduction of PROLOG for programmers using JR Fisher's tutorial. It's on this webpage here. One thing to notice is that we strive to do declarative programming. One form of declarative is relational programming. PROLOG was one of the first attempts at relational programming.
 
 Mini kran is the current manifestation of relational program. I happen to be using eax org mode, and I'm gonna probably use a sw s w I PROLOG, although I've used G PROLOG a lot also. Let's have a look at the figure. It's Listed in that article it's basically five nodes forming a network, and there's connections between the nodes in, the various ways that are shown on this diagram.
 
