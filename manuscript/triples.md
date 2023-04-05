@@ -13,10 +13,3 @@ AFAIK, xml started out life as triples.  (This doesn't mean that I am right, it 
 [Example of RDF triples](https://www.iro.umontreal.ca/~lapalme/ForestInsteadOfTheTrees/HTML/ch07s01.html).
 
 
-
-### Example
-
-
-An example is given here 
-
-(from [](https://www.javatpoint.com/xml-example))
