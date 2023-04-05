@@ -53,7 +53,7 @@ Optimization is easier when target code/data has been normalized.
 
 Peephole optimization is easy to do with even simple tools like awk when code / data has been normalized into triples.
 
-Fraser/Davidson wrote a landmark paper[^fn1] on peepholing which formed the basis of Gnu's gcc.
+Fraser/Davidson wrote a landmark paper[^udfn1] on peepholing which formed the basis of Gnu's gcc.
 
 Normalizing code and optimizing it is not just for compilers.  The techniques could be ratcheted up a notch to cover higher levels of software Architectures.
 
@@ -92,7 +92,7 @@ MiniKanren appears to be the successor to PROLOG-like languages.
 
 MiniKanren can do seemingly-magical things https://www.youtube.com/watch?v=er_lLvkklsk (and https://github.com/webyrd/Barliman).
 
-[One has to wonder what the child of MiniKanren and AI might turn out like.]
+One has to wonder what the child of MiniKanren and AI might turn out like.
 
 ## Programming Language Design
 
@@ -104,7 +104,7 @@ Successive programming language designs have tried to remedy the problems of wor
 
 Programming languages have taken years to design and to perfect.
 
-Now, using PEG parsers, we can build languages in a day[^fn2].  
+Now, using PEG parsers, we can build languages in a day[^udfn2].  
 
 We can tune a language for a specific problem.  
 
@@ -135,7 +135,7 @@ If you use REGEXPs, stop.
 
 Use PEGs instead.
 
-PEGs make it easy to match sequences that REGEXPs have a hard time with.[^fn3]
+PEGs make it easy to match sequences that REGEXPs have a hard time with.[^udfn3]
 
 ## Automation
 
@@ -151,17 +151,17 @@ Then automate.
 Programming consists of two basic activities:
 
 1. breathe in — pattern match
-2. breathe out — rearrange and emit.[^fn4]
+2. breathe out — rearrange and emit.[^udfn4]
 
-[If (2) occurs before (1) is finished, we get problems.  FP is an attempt to fix such problems by throwing the baby out with the bathwater.  State is not the problem — unscoped use of State is the problem].[^fn5]
+If (2) occurs before (1) is finished, we get problems.  FP is an attempt to fix such problems by throwing the baby out with the bathwater.  State is not the problem — unscoped use of State is the problem].[^udfn5]
 
 
-[^fn1]: https://dl.acm.org/doi/10.1145/357094.357098
+[^udfn1]: https://dl.acm.org/doi/10.1145/357094.357098
 
-[^fn2]: Especially if we cheat.
+[^udfn2]: Especially if we cheat.
 
-[^fn3]: The difference lies in the fact that PEGs use a stack and allow you to easily write pattern-matching subroutines.
+[^udfn3]: The difference lies in the fact that PEGs use a stack and allow you to easily write pattern-matching subroutines.
 
-[^fn4]: (2) might also involve actions
+[^udfn4]: (2) might also involve actions
 
-[^fn5]: https://guitarvydas.github.io/2020/12/09/Isolation.html.  See, also, Structured Programming, StateCharts, etc.
+[^udfn5]: https://guitarvydas.github.io/2020/12/09/Isolation.html.  See, also, Structured Programming, StateCharts, etc.
