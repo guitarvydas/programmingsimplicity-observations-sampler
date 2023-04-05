@@ -210,6 +210,8 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/leanpubfail.md~",
+    "manuscript/leanpubfail.md",
     "manuscript/#triples.md#",
     "manuscript/triples 1.md",
     "manuscript/triples.md",
@@ -249,12 +251,10 @@
     "manuscript/resources/cf12.jpg",
     "manuscript/#prolog-for-programmers.md#",
     "manuscript/git -could-do-more.md",
-    "manuscript/control-flow-png-bug.md",
     "manuscript/resources/#convert2jpg.bash#",
     "manuscript/resources/Control Flow Copy 1.scap",
     "#junk.json#",
     "preview.bash~",
-    "preview.bash",
-    "apikey.txt"
+    "preview.bash"
   ]
 }
