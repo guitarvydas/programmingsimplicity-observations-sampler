@@ -6,12 +6,12 @@ The Universal Datatype is a *relation*, e.g.
 
 
 
-# Triples #
+## Triples
 
 Relations are also called a triples.
 
 
-# Assembler #
+## Assembler
 
 `MOV R0,R1`
 is a triple.  
@@ -19,7 +19,7 @@ is a triple.
 Relation, Subject, Object.
 
 
-# Normalization #
+## Normalization
 
 Data / Code represented as relations is normalized.
 
@@ -39,15 +39,15 @@ height (R1, 30)`
 
 [Yes, normalization wastes space and CPU power, but, we have lots of each today.]
 
-# Factbase #
+## Factbase
 
 I often use the term fact and put facts into a factbase.
 
-# Compilers #
+## Compilers
 
 Compilers like triples, e.g. MOV R0,R1.
 
-# Optimization #
+## Optimization
 
 Optimization is easier when target code/data has been normalized.
 
@@ -57,15 +57,15 @@ Fraser/Davidson wrote a landmark paper[^fn1] on peepholing which formed the basi
 
 Normalizing code and optimizing it is not just for compilers.  The techniques could be ratcheted up a notch to cover higher levels of software Architectures.
 
-# Anecdote - Y2K and COBOL #
+## Anecdote - Y2K and COBOL
 
 We analyzed banking source code for Y2K problems.
 
 We used TXL to convert all source code into factbases, then ran backtracking pattern-matching rules over the normalized code.
 
-# Pattern Matching Factbases #
+## Pattern Matching Factbases
 
-## Backtracking ##
+### Backtracking
 
 Exhaustive matching can be done with simple algorithms — backtracking.
 
@@ -73,20 +73,20 @@ Backtracking is easier when the data is normalized.
 
 [That's why compiler writers aim at assembler when writing optimizers.  Today, trees are used, but trees get in the way.]
 
-## PROLOG ##
+### PROLOG
 
 PROLOG is one of the earliest attempts at backtracking.
 
 [I have built a PROLOG in JavaScript.  See https://guitarvydas.github.io/]
 
-## TXL ##
+### TXL
 
 TXL is a functional, backtracking, parser language.
 
 http://www.txl.ca/
 
 
-## MiniKanren ##
+### MiniKanren
 
 MiniKanren appears to be the successor to PROLOG-like languages.
 
@@ -94,7 +94,7 @@ MiniKanren can do seemingly-magical things https://www.youtube.com/watch?v=er_lL
 
 [One has to wonder what the child of MiniKanren and AI might turn out like.]
 
-# Programming Language Design #
+## Programming Language Design
 
 Imagine if all code were normalized to triples.
 
@@ -110,7 +110,7 @@ We can tune a language for a specific problem.
 
 I call these SCLs — Solution Centric Languages.
 
-## PEG vs. YACC ##
+### PEG vs. YACC
 
 YACC embodies LR(k) theory.
 
@@ -127,7 +127,7 @@ YACC needs a scanner, e.g. LEX.
 PEGs are all-in-one - scanner and parser, utilizing familiar REGEXP-like syntax.
 
 
-## PEG vs. REGEXP ##
+### PEG vs. REGEXP
 
 PEG is like REGEXP, only better.
 
@@ -137,7 +137,7 @@ Use PEGs instead.
 
 PEGs make it easy to match sequences that REGEXPs have a hard time with.[^fn3]
 
-# Automation #
+## Automation
 
 Normalization leads to automation.
 
@@ -146,7 +146,7 @@ First, make it repetitive and boring.
 Then automate.
 
 
-# Programming #
+## Programming
 
 Programming consists of two basic activities:
 
