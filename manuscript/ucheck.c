@@ -6,7 +6,7 @@ int main (int argc, char **argv) {
   int offset = 1;
   while (c != EOF) {
     if (c > 128) {
-      printf ("unicode found at position %d: %d\n", offset, c);
+      printf ("unicode found at position %d\n", offset);
     }
     c = getc (f);
     offset = offset + 1;

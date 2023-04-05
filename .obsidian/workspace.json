@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/triples.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -210,6 +210,11 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/book 1.md",
+    "manuscript/#fdd.md#",
+    "manuscript/#why-do-we-use-text-for-programming-languages.md#",
+    "manuscript/book.md",
+    "manuscript/triples.md",
     "manuscript/ucheck",
     "manuscript/#ucheck.c#",
     "manuscript/a.out",
@@ -219,9 +224,6 @@
     "manuscript/leanpubfail.md~",
     "manuscript/leanpubfail.md",
     "manuscript/triples 1.md",
-    "manuscript/triples.md",
-    "manuscript/book.md",
-    "manuscript/book 1.md",
     "manuscript/universal-datatype.md",
     "manuscript/git-could-do-more.md",
     "manuscript/five-whys-of-software-components.md",
@@ -237,7 +239,6 @@
     "manuscript/the-holy-grail.md",
     "manuscript/obs-book.md",
     "obs-pdf/obs-book.pdf",
-    "obs-pdf",
     "manuscript/the-holy-grail 1.md",
     "manuscript/control-flow 1.md",
     "meta.md",
@@ -249,12 +250,10 @@
     "manuscript/resources/cf8.jpg",
     "manuscript/resources/cf5.jpg",
     "manuscript/resources/test.jpg",
-    "manuscript/resources/convert2jpg.bash",
     "manuscript/resources/cf6.jpg",
     "manuscript/resources/cf4.jpg",
     "manuscript/resources/cf3.jpg",
     "manuscript/resources/cf12.jpg",
-    "manuscript/#prolog-for-programmers.md#",
     "manuscript/git -could-do-more.md"
   ]
 }

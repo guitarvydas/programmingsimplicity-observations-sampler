@@ -15,7 +15,7 @@ The implication is obvious:
 
 [^dyn]: It is OK to use dynamic languages to experiment with and develop designs.  The idea that you know everything about a design without experimentation is called The Waterfall Method.  This, The Waterfall Method, is what is considered to be "programming" currently. Programmers dive into a project with the assumption that they will succeed.  The infrastructure for intermediate failures is not built up, programmers jump directly to optimizing designs (which are, at first, untested designs).
 
-[^pl]: Note that this statement does *not* say "do not use programming languages".  It simply says that compilers are for optimization and that optimization is the final step in productizing a software app. (I say "don't use programming languages", elsewhere 😀)
+[^pl]: Note that this statement does *not* say "do not use programming languages".  It simply says that compilers are for optimization and that optimization is the final step in productizing a software app. (I say "don't use programming languages", elsewhere)
 
 Use compilers only when you need to Production Engineer a Design.
 

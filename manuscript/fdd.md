@@ -7,8 +7,8 @@ Failure is the Best Way to Learn
 
 ---
 Two Ways of Looking at Development
-1.  It’s going succeed
-2.  It’s going to fail
+1.  It's going succeed
+2.  It's going to fail
 
 ---
 Outlook Determines Workflow
@@ -25,10 +25,10 @@ FDD vs Regular Design
 	-   A to B design, straight ahead
 ---
 Assuming Success
--   Waterfall workflow 
+-   Waterfall workflow 
 	-   one-way, one direction (e.g. top to bottom)
 	-   no plan to iterate
-	-   failure comes as a “surprise”
+	-   failure comes as a "surprise"
 		-   hard to recover from failure
 ---
 Waterfall
@@ -50,7 +50,7 @@ Failure
 ---
 Failure vs. Success
 -   Development:
--   When software works, we “abandon” it (ship it)
+-   When software works, we "abandon" it (ship it)
 -   When software fails, we continue working on it
 -   Most of the time, we work on failing / failed code
 ---
@@ -73,7 +73,7 @@ FDD - Strategies to Make Failure Less Painful / Bothersome
 -   iteration
 -   recursion / divide-and-conquer
 -   automation - rearrange, then push a button to rebuild everything
--   layering design (see “Recursive Design, Iterative Design By Example (2), section “Bug 2” and section “Layering Solutions”)
+-   layering design (see "Recursive Design, Iterative Design By Example (2), section "Bug 2" and section "Layering Solutions")
 	-   [https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html](https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html)
 -   indirection
 -   create a notation, SCN (low-cost)
@@ -101,24 +101,24 @@ Notations, Not Languages
 -   DSL: heavyweight, high cost to build
 -   Specialize Notation to Problem Space _only_
 	-   avoid generalizing
--   YAGNI - You Aren’t Going to Need It
+-   YAGNI - You Aren't Going to Need It
 ---
 Fail Fast
 -   divide problem, choose greatest risk, greatest unknown
 -   experiment with / implement unknown
 -   if unknown becomes known, defer it and choose next greatest risk (which is, now, the greatest risk)
--   if unknown is “impossible”, then fail and backtrack
+-   if unknown is "impossible", then fail and backtrack
 	-   redefine the problem / solution
 -   Testing cannot prove that a device works, but testing can prove that a device does not meet its specifications
 ---
 Scientific Method is a Fail Fast Methodology
 -   A _scientific theory_ is one which is _falsifiable_
--   one can’t prove a theory to be correct - 1 data point can only _support_ a theory, but cannot prove it
+-   one can't prove a theory to be correct - 1 data point can only _support_ a theory, but cannot prove it
 -   one can only disprove a theory - 1 data point can kill a theory
 ---
 FDD How? Backtracking
 -   script everything, push a button to rebuild
--   when a design fails, 
+-   when a design fails, 
 	-   repair requirements
 	-   repair the design
 	-   re-generate
@@ -129,7 +129,7 @@ FDD How? Compiler Technology
 -   compilers pioneered portability
 ---
 FDD How?
--   don’t write code
+-   don't write code
 -   write code that generates code
 ---
 Failure : Automation
@@ -143,7 +143,7 @@ Automation : Factbases
 -   To automate, use compiler technology
 -   MOV R1,R0 is a triple
 -   everything is a triple => easier to automate
--   RTL, OCG, portability … <= normalization
+-   RTL, OCG, portability ... <= normalization
 -   Projectional Editing <= normalization
 ---
 What is the LCD for Automation?
@@ -151,7 +151,7 @@ What is the LCD for Automation?
 -   A: triples
 -   triple = _relation(subject,object)_
 -   curried function is _relation(subject)_, later applied to _object_
-	-   i.e. double∘single => triple
+	-   i.e. double X single => triple
 ---
 Manual vs. Automated
 -   Manual work resists change.
@@ -162,11 +162,11 @@ Manual vs. Automated
 ---
 Are You Ever Finished?
 -   No, but you reach a point where a product can be shipped
--   analogy: songwriting - 
+-   analogy: songwriting - 
 	-   songwriter continuously tinkers with a song
 	-   but, making a recording draws a line
-	-   “Aqualung” live is, now, almost unrecognizable (jazzy beginning) 
-		-   audience member yelled “play Aqualung” during the new intro
+	-   "Aqualung" live is, now, almost unrecognizable (jazzy beginning) 
+		-   audience member yelled "play Aqualung" during the new intro
 	-   songs continue to evolve
 ---
 DI
@@ -197,11 +197,11 @@ Toolbox Languages
 -   [https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
 ---
 Appendix - Why?
--   I watched Daniel Pink’s Masterclass
--   He suggests asking “why?” repetitively, some 5 times
+-   I watched Daniel Pink's Masterclass
+-   He suggests asking "why?" repetitively, some 5 times
 	-  to understand the problem more deeply
 ---
-Appendix - 5 Whys of…
+Appendix - 5 Whys of...
 -   5 Whys of Multiprocessing: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html)
 -   5 Whys of Full Preemption: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html)
 -   5 Whys of Software Components: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html)
@@ -209,12 +209,12 @@ Appendix - 5 Whys of…
 Appendix - Incremental Learning
 -   A debugger can be used to observe the operation of someone else's code (or your own code).
 	-   Stepping through code and interactively examining data structures is one way to understand the intended architecture.
-	-   Fixing other peoples’ mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
+	-   Fixing other peoples' mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
 ---
 Appendix - Details Kill
 -   [https://guitarvydas.github.io/2021/03/17/Details-Kill.html](https://guitarvydas.github.io/2021/03/17/Details-Kill.html)
 -   elide details
-	-   don’t delete details, suppress them
+	-   don't delete details, suppress them
 	-   KISS
-		-   simplicity is the “lack of nuance”
+		-   simplicity is the "lack of nuance"
 		-   complexity is the inclusion of too many details (in any one layer)
