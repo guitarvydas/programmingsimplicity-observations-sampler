@@ -154,7 +154,7 @@ Paul Tarvydas, April 2021
 -   curried function is _relation(subject)_, later applied to _object_
 	-   i.e. double X single => triple
 ---
-## Manual vs. Automated
+### Manual vs. Automated
 -   Manual work resists change.
 
 -   The time spent is not recoverable.
@@ -170,52 +170,72 @@ Paul Tarvydas, April 2021
 		-   audience member yelled "play Aqualung" during the new intro
 	-   songs continue to evolve
 ---
-## DI
--   Design Intent
--   [https://guitarvydas.github.io/2021/04/11/DI.html](https://guitarvydas.github.io/2021/04/11/DI.html)
--   [https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html](https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html)
+## Appendix
+## Appendix - DI
+Design Intent
+
+[https://guitarvydas.github.io/2021/04/11/DI.html](https://guitarvydas.github.io/2021/04/11/DI.html)
+
+[https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html](https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html)
+
 ---
-## Recursive Design
--   [https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html)
--   [https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html](https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html)
--   [https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html](https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html)
--   [https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html](https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html)
--   [https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html](https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html)
--   [https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html)
+
+## Appendix - Recursive Design
+[https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html)
+
+[https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html](https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html)
+
+[https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html](https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html)
+
+[https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html](https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html)
+
+[https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html](https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html)
+
+[https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html)
+
 ---
-## Factbases
--   [https://guitarvydas.github.io/2021/01/17/Factbases.html](https://guitarvydas.github.io/2021/01/17/Factbases.html)
--   [https://guitarvydas.github.io/2021/03/16/Triples.html](https://guitarvydas.github.io/2021/03/16/Triples.html)
+## Appendix - Factbases
+[https://guitarvydas.github.io/2021/01/17/Factbases.html](https://guitarvydas.github.io/2021/01/17/Factbases.html)
+
+[https://guitarvydas.github.io/2021/03/16/Triples.html](https://guitarvydas.github.io/2021/03/16/Triples.html)
+
 ---
-## SCN - Notations
--   Solution Centric Notations
--   [https://guitarvydas.github.io/2021/04/10/SCN.html](https://guitarvydas.github.io/2021/04/10/SCN.html)
+## Appendix - SCN - Notations
+Solution Centric Notations
+
+[https://guitarvydas.github.io/2021/04/10/SCN.html](https://guitarvydas.github.io/2021/04/10/SCN.html)
+
 ---
-## Indirection
--   [https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html](https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html)
+## Appendix - Indirection
+[https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html](https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html)
+
 ---
-## Toolbox Languages
--   [https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
+## Appendix - Toolbox Languages
+[https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
+
 ---
-# Appendix - Why?
--   I watched Daniel Pink's Masterclass
--   He suggests asking "why?" repetitively, some 5 times
-	-  to understand the problem more deeply
+### Appendix - Why?
+I watched Daniel Pink's Masterclass
+
+Pink suggests asking "why?" repetitively, some 5 times to understand the problem more deeply
+
 ---
-# Appendix - 5 Whys of...
--   5 Whys of Multiprocessing: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html)
--   5 Whys of Full Preemption: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html)
--   5 Whys of Software Components: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html)
+### Appendix - 5 Whys of...
+5 Whys of Multiprocessing: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html)
+
+5 Whys of Full Preemption: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html)
+
+5 Whys of Software Components: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html)
 ---
-# Appendix - Incremental Learning
--   A debugger can be used to observe the operation of someone else's code (or your own code).
-	-   Stepping through code and interactively examining data structures is one way to understand the intended architecture.
-	-   Fixing other peoples' mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
+### Appendix - Incremental Learning
+A debugger can be used to observe the operation of someone else's code (or your own code).
+-   Stepping through code and interactively examining data structures is one way to understand the intended architecture.
+-   Fixing other peoples' mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
 ---
-# Appendix - Details Kill
--   [https://guitarvydas.github.io/2021/03/17/Details-Kill.html](https://guitarvydas.github.io/2021/03/17/Details-Kill.html)
--   elide details
-	-   don't delete details, suppress them
-	-   KISS
-		-   simplicity is the "lack of nuance"
-		-   complexity is the inclusion of too many details (in any one layer)
+### Appendix - Details Kill
+[https://guitarvydas.github.io/2021/03/17/Details-Kill.html](https://guitarvydas.github.io/2021/03/17/Details-Kill.html)
+elide details
+-   don't delete details, suppress them
+-   KISS
+	-   simplicity is the "lack of nuance"
+	-   complexity is the inclusion of too many details (in any one layer)
