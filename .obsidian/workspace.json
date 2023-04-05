@@ -210,6 +210,8 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/pinc.md~",
+    "manuscript/pinc.md",
     "manuscript/book-pinc.md",
     "manuscript/book-working.md",
     "#pinc#",
@@ -253,8 +255,6 @@
     "manuscript/triples.md",
     "manuscript/leanpubfail.md",
     "manuscript/triples 1.md",
-    "manuscript/universal-datatype.md",
-    "manuscript/git-could-do-more.md",
-    "manuscript/five-whys-of-software-components.md"
+    "manuscript/universal-datatype.md"
   ]
 }

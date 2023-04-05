@@ -1,4 +1,9 @@
 
+# Programming Is Not Coding
+## An Abbreviated History of Programming Languages.
+
+
+
 The ground truth is *programming*, not *coding*.
 
 The goal of programming is to control a machine.
@@ -15,3 +20,9 @@ To control a machine.
 To accurately break down an action in steps so small that even a machine can perform the steps.
 
 Current electronic machines provide us with a set of steps called "opcodes".
+
+## Early Machines
+
+Early machines were mechanical.
+
+Early machines used gears and pulleys.
