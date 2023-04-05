@@ -49,6 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "manuscript/book 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17a6d6ef6ccb8ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,10 +196,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f0ce415163f6d8d1",
+  "active": "17a6d6ef6ccb8ed0",
   "lastOpenFiles": [
     "manuscript/book 1.md",
     "manuscript/book.md",
+    "manuscript/call-return-spaghetti.md",
+    "manuscript/obs-book.md",
+    "obs-pdf/obs-book.pdf",
+    "obs-pdf",
+    "manuscript/the-holy-grail.md",
+    "manuscript/the-holy-grail 1.md",
+    "manuscript/control-flow.md",
+    "manuscript/control-flow 1.md",
+    "meta.md",
+    "manuscript/fdd.md",
     "manuscript/book whittled to videos.md",
     "manuscript/prolog-for-programmers.md",
     "manuscript/resources/cf7.jpg",
@@ -202,35 +224,25 @@
     "manuscript/resources/cf3.jpg",
     "manuscript/resources/cf12.jpg",
     "manuscript/git-could-do-more.md",
-    "dryvscbp.md",
+    "manuscript/dryvscbp.md",
     "manuscript/#prolog-for-programmers.md#",
     "manuscript/git -could-do-more.md",
-    "manuscript/control-flow 1.md",
-    "manuscript/control-flow.md",
     "manuscript/control-flow-png-bug.md",
     "manuscript/resources/#convert2jpg.bash#",
     "manuscript/resources/Control Flow Copy 1.scap",
-    "meta.md",
     "#junk.json#",
     "preview.bash~",
     "preview.bash",
     "apikey.txt",
-    "status.bash~",
-    "status.bash",
     "Control-Flow-2.png.md",
-    "manuscript/the-holy-grail.md",
     "zacs picks.md",
     "README.md",
     "manuscript/universal-datatype.md",
-    "manuscript/fdd.md",
     "manuscript/compilers-too-slow.md",
     "manuscript/triples.md",
     "manuscript/test.md",
     "manuscript/5-whys-of-software-components.md",
-    "manuscript/the-holy-grail 1.md",
     "manuscript/programming-is-not-coding.md",
-    "manuscript/why-do-we-use-text-for-programming-languages.md",
-    "manuscript/call-return-spaghetti.md",
-    "manuscript/factbases.md"
+    "manuscript/why-do-we-use-text-for-programming-languages.md"
   ]
 }

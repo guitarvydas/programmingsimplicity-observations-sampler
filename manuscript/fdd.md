@@ -25,7 +25,7 @@ FDD vs Regular Design
 	-   A to B design, straight ahead
 ---
 Assuming Success
--   Waterflow workflow 
+-   Waterfall workflow 
 	-   one-way, one direction (e.g. top to bottom)
 	-   no plan to iterate
 	-   failure comes as a “surprise”
