@@ -57,3 +57,6 @@ Toggle switches were used to replace soldering of wires.[^jz]
 
 {width: 40%}
 ![On-Off_Switch.jpg| 130](resources/On-Off_Switch.jpg)
+
+[^jz]:Jason Zack at en.wikipedia, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
+
