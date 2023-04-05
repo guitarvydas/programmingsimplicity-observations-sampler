@@ -48,3 +48,20 @@ Changing a program, consisted of unsoldering wires and connecting them elsewhere
 The primitive programming tools and IDE were slow, but, orders of magnitude faster than changing the behaviour of machines by pulling gears and replacing them with other gears.
 
 Other drawbacks included blisters on fingers.  Recently soldered nodes would remain hot for a while and would create blisters if touched too soon.
+
+
+##  Toggle Switches (Advanced Programming)
+
+
+Toggle switches were used to replace soldering of wires.[^jz]
+
+{width: 40%}
+![On-Off_Switch.jpg| 130](resources/On-Off_Switch.jpg)
+
+[^jz]:Jason Zack at en.wikipedia, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
+
+Revelation: toggle switches had 2 states "OFF" and "ON".
+
+Revelation: arranging toggle switches in sequential and parallel combinations produced physical equivalents of Boolean Logic (AND and OR functionality).
+
+![Boolean.svg](resources/Boolean.svg)
