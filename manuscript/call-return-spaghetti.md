@@ -196,10 +196,12 @@ I will draw a sequence of diagrams for each path.
 
 #### B Runs First - Path BC
 
-![Fig. 6 Control Flow BC][PathBC]
+{width: 40%}
+![Fig. 6 Control Flow BC](resources/PathBC.png)
 
 #### C Runs First - Path CB
 
+{width: 40%}
 ![Fig. 7 Control Flow CB](resources/PathCB.png)
 
 
