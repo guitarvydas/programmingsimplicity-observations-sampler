@@ -150,8 +150,8 @@ Paul Tarvydas, April 2021
 #### What is the LCD for Automation?
 -   Q: What is the LCD - Lowest Common Denominator?
 -   A: triples
--   triple = _relation(subject,object)_
--   curried function is _relation(subject)_, later applied to _object_
+-   triple = `relation(subject,object)`
+-   curried function is `relation(subject)`, later applied to `object`
 	-   i.e. double X single => triple
 ---
 ### Manual vs. Automated
