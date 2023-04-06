@@ -31,11 +31,13 @@ Example:
 
 can be further atomized — normalized — as
 
-`rectangle (R1)
+```
+rectangle (R1)
 x (R1, 5)
 y (R1, 10)
 width (R1, 20)
-height (R1, 30)`
+height (R1, 30)
+```
 
 [Yes, normalization wastes space and CPU power, but, we have lots of each today.]
 

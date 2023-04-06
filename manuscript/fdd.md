@@ -171,7 +171,7 @@ Paul Tarvydas, April 2021
 	-   songs continue to evolve
 ---
 ## Appendix
-## Appendix - DI
+### Appendix - DI
 Design Intent
 
 [https://guitarvydas.github.io/2021/04/11/DI.html](https://guitarvydas.github.io/2021/04/11/DI.html)
@@ -180,7 +180,7 @@ Design Intent
 
 ---
 
-## Appendix - Recursive Design
+### Appendix - Recursive Design
 [https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html)
 
 [https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html](https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html)
@@ -194,23 +194,23 @@ Design Intent
 [https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html)
 
 ---
-## Appendix - Factbases
+### Appendix - Factbases
 [https://guitarvydas.github.io/2021/01/17/Factbases.html](https://guitarvydas.github.io/2021/01/17/Factbases.html)
 
 [https://guitarvydas.github.io/2021/03/16/Triples.html](https://guitarvydas.github.io/2021/03/16/Triples.html)
 
 ---
-## Appendix - SCN - Notations
+### Appendix - SCN - Notations
 Solution Centric Notations
 
 [https://guitarvydas.github.io/2021/04/10/SCN.html](https://guitarvydas.github.io/2021/04/10/SCN.html)
 
 ---
-## Appendix - Indirection
+### Appendix - Indirection
 [https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html](https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html)
 
 ---
-## Appendix - Toolbox Languages
+### Appendix - Toolbox Languages
 [https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
 
 ---

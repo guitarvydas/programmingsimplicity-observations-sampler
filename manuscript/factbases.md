@@ -60,11 +60,13 @@ For example, imagine that I have a rectangle R, with top-left (x,y) and a width,
 
 In factbase notation, this becomes
 
-r`ectangle(R,nil).
+```
+rectangle(R,nil).
 top_x(R,x).
 top_y(R,y).
 width(R,w).
-height(R,h).`
+height(R,h).
+```
 
 Resist the urge to do something like:
 
@@ -72,9 +74,11 @@ Resist the urge to do something like:
 
 or
 
-`rectangle(R,nil).
+```
+rectangle(R,nil).
 top(R,[x,y]).
-wh(R,[w,h]).`
+wh(R,[w,h]).
+```
 
 We will use CPU power[^fn2] to glean various relationships about the data.  In fact, one of the first relationships will be to create a bounding box for each rectangle (we will see this later).
 
