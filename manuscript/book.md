@@ -1,2 +1,9 @@
 pinc.md
 scalability.md
+five-whys-of-software-components.md
+git-could-do-more.md
+dryvscbp.md
+factbases.md
+universal-datatype.md
+triples.md
+agile-takeaways.md
