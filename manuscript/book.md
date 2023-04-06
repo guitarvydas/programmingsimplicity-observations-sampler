@@ -7,6 +7,3 @@ factbases.md
 universal-datatype.md
 triples.md
 agile-takeaways.md
-compilers-too-slow.md
-why-do-we-use-text-for-programming-languages.md
-fdd.md
