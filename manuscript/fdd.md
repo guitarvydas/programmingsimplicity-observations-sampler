@@ -172,3 +172,50 @@
 Design Intent
 
 [https://guitarvydas.github.io/2021/04/11/DI.html](https://guitarvydas.github.io/2021/04/11/DI.html)
+
+[https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html](https://guitarvydas.github.io/2020/12/09/DI-Design-Intent.html)
+
+---
+
+### Appendix - Recursive Design
+[https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer-is-Recursive-Design.html)
+
+[https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html](https://guitarvydas.github.io/2021/04/12/Recursive-Iterative-Design-By-Example.html)
+
+[https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html](https://guitarvydas.github.io/2021/04/20/Recursive-Design,-Iterative-Design-By-Example-(2).html)
+
+[https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html](https://guitarvydas.github.io/2021/03/18/Divide-and-Conquer-in-PLs.html)
+
+[https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html](https://guitarvydas.github.io/2021/03/06/Divide-and-Conquer-YAGNI.html)
+
+[https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html](https://guitarvydas.github.io/2020/12/09/Divide-and-Conquer.html)
+
+---
+### Appendix - Factbases
+[https://guitarvydas.github.io/2021/01/17/Factbases.html](https://guitarvydas.github.io/2021/01/17/Factbases.html)
+
+[https://guitarvydas.github.io/2021/03/16/Triples.html](https://guitarvydas.github.io/2021/03/16/Triples.html)
+
+---
+### Appendix - SCN - Notations
+Solution Centric Notations
+
+[https://guitarvydas.github.io/2021/04/10/SCN.html](https://guitarvydas.github.io/2021/04/10/SCN.html)
+
+---
+### Appendix - Indirection
+[https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html](https://guitarvydas.github.io/2021/03/16/Indirect-Calls.html)
+
+---
+### Appendix - Toolbox Languages
+[https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html](https://guitarvydas.github.io/2021/03/16/Toolbox-Languages.html)
+
+---
+### Appendix - Why?
+I watched Daniel Pink's Masterclass
+
+Pink suggests asking "why?" repetitively, some 5 times to understand the problem more deeply
+
+---
+### Appendix - 5 Whys of...
+5 Whys of Multiprocessing: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Multiprocessing.html)
