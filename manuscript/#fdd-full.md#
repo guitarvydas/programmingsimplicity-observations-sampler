@@ -1,4 +1,7 @@
 # FDD - Failure Driven Design
+Failure Driven Design
+Paul Tarvydas, April 2021
+
 ## Slides
 ---
 ### Failure is the Best Way to Learn
@@ -223,3 +226,16 @@ Pink suggests asking "why?" repetitively, some 5 times to understand the problem
 5 Whys of Full Preemption: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Full-Preemption.html)
 
 5 Whys of Software Components: [https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html](https://guitarvydas.github.io/2020/12/10/5-Whys-of-Software-Components.html)
+---
+### Appendix - Incremental Learning
+A debugger can be used to observe the operation of someone else's code (or your own code).
+-   Stepping through code and interactively examining data structures is one way to understand the intended architecture.
+-   Fixing other peoples' mistakes can force you to think deeply about the code and data structure details.  Incrementally, not in one big gulp.
+---
+### Appendix - Details Kill
+[https://guitarvydas.github.io/2021/03/17/Details-Kill.html](https://guitarvydas.github.io/2021/03/17/Details-Kill.html)
+elide details
+-   don't delete details, suppress them
+-   KISS
+	-   simplicity is the "lack of nuance"
+	-   complexity is the inclusion of too many details (in any one layer)
