@@ -196,12 +196,12 @@ I will draw a sequence of diagrams for each path.
 
 #### B Runs First - Path BC
 
-{height: 70%}
+{height: 90%}
 ![Fig. 6 Control Flow BC](resources/PathBC.png)
 
 #### C Runs First - Path CB
 
-{height: 70%}
+{height: 90%}
 ![Fig. 7 Control Flow CB](resources/PathCB.png)
 
 
