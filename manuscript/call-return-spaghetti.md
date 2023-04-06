@@ -10,8 +10,8 @@ I show the fundamental operation of a concurrent system and argue that it is inh
 
 Fig. 1 contains a diagram of a simple system.
 
-![](resources/SyncVsAsync-SimpleDiagram.png)
-Fig. 1 A Simple System
+![Fig. 1 A Simple System](resources/SyncVsAsync-SimpleDiagram.png)
+
 
 The diagram contains one input[^fn1] port and one output[^fn2] port.  
 
@@ -25,8 +25,8 @@ It appears that we have plugged two software components together to form a syste
 
 What Happens When Events Arrive?
 
-![](resources/SyncVsAsync-WhatHappens.png)
-Fig. 2  An Event Arrives
+![Fig. 2  An Event Arrives](resources/SyncVsAsync-WhatHappens.png)
+
 
 What happens when an event arrives at the input?  See Fig. 2.
 
@@ -152,9 +152,7 @@ Version 1 and version 2 create different results.
 
 Fig. 5 shows the control flows for code versions 1 and 2.
 
-![](resources/diagrams-sync.png)
-
-Fig. 5 Control Flow for Versions 1 & 2
+![Fig. 5 Control Flow for Versions 1 & 2](resources/diagrams-sync.png)
 
 ## The Desired Outcome
 
@@ -171,8 +169,7 @@ I will show the event flow that we desire, in a series of diagrams, then, I will
 
 ### Event Delivery 1
 
-![](resources/SyncVsAsync-AsyncDelivery1.png)
-Fig. 5 Event q Delivered
+![Fig. 5 Event q Delivered](resources/SyncVsAsync-AsyncDelivery1.png)
 
 Fig. 5 shows event "q" being delivered to B and C.
 
@@ -180,8 +177,7 @@ Nothing else happens, no routines are called.
 
 ### After Event Delivery 1
 
-![](resources/SyncVsAsync-AfterAsyncDelivery1.png)
-Fig. 5 After Event Delivery 1
+![Fig. 5 After Event Delivery 1](resources/SyncVsAsync-AfterAsyncDelivery1.png)
 
 Fig. 5 shows what the system looks like after Event Delivery 1 has occurred.
 
@@ -200,13 +196,12 @@ I will draw a sequence of diagrams for each path.
 
 #### B Runs First - Path BC
 
-![][PathBC]
-Fig. 6 Control Flow BC
+![Fig. 6 Control Flow BC][PathBC]
 
 #### C Runs First - Path CB
 
-![](resources/PathCB.png)
-Fig. 7 Control Flow CB
+![Fig. 7 Control Flow CB](resources/PathCB.png)
+
 
 ### Final Result
 
@@ -216,22 +211,22 @@ In both cases, Path BC and Path CB, the final result is the same - v is output f
 
 #### Requirements
 
-1. Components have an input queue, onto which incoming events are placed.[^fn9]
-* Components cannot call one another.
-* Components are asynchronous.
-* A Dispatcher routine decides which Component will run and in what order[^fn10].
-* Components are ready if they have events in their input queues.
-* Components consume one input event and produce as many output events[^fn11] as necessary in reaction to the input event.
-* Components perform a co-routine[^fn12] dance with the Dispatcher.  When a Component has processed a single event to completion, the the Component yields to the Dispatcher.  The Dispatcher decides which Component will run next.[^fn13] Components do not decide on the order of dispatching (as with call-return based code) nor can Components rely on any certain dispatching order.[^fn14]
-* Events and data contained in events, are immutable.
-* If a Component sends one event to multiple receivers, it must lock the routing wire.[^fn15]
+- All Components have an input queue, onto which incoming events are placed.[^fn9]
+- Components cannot call one another.
+- Components are asynchronous.
+- A Dispatcher routine decides which Component will run and in what order[^fn10].
+- Components are ready if they have events in their input queues.
+- Components consume one input event and produce as many output events[^fn11] as necessary in reaction to the input event.
+- Components perform a co-routine[^fn12] dance with the Dispatcher.  When a Component has processed a single event to completion, the the Component yields to the Dispatcher.  The Dispatcher decides which Component will run next.[^fn13] Components do not decide on the order of dispatching (as with call-return based code) nor can Components rely on any certain dispatching order.[^fn14]
+- Events and data contained in events, are immutable.
+- If a Component sends one event to multiple receivers, it must lock the routing wire.[^fn15]
 
 
 In addition,
 
-* Components have no parameters,  Send()[^fn16] is used instead.
-* Components have no return values.  Send() is used instead.
-* There is no syntax for exceptions[^fn17].  Send() is used instead.
+- Components have no parameters,  Send()[^fn16] is used instead.
+- Components have no return values.  Send() is used instead.
+- There is no syntax for exceptions[^fn17].  Send() is used instead.
 
 #### Using Threads
 
@@ -347,8 +342,8 @@ Encapsulation must be applied to every concept in software architecture.
 
 A component has two external namespaces:
 
-* The set of inputs.
-* The set of outputs[^fn40].
+- The set of inputs.
+- The set of outputs[^fn40].
 
 The internal namespace(s) of Components does not leak out.
 
@@ -370,19 +365,6 @@ Control flow begins when a Component is invoked, and, control flow ends when the
 
 Control Flow does not leak beyond the boundaries of Components[^fn42].
 
-[SyncVsAsync-SimpleDiagram]: SyncVsAsync-SimpleDiagram.png width=400px height=150px
-
-[SyncVsAsync-WhatHappens]: SyncVsAsync-WhatHappens.png width=411px height=115px
-
-[diagrams-sync]: diagrams-sync.png width=443px height=186px
-
-[SyncVsAsync-AsyncDelivery1]: SyncVsAsync-AsyncDelivery1.png width=438px height=92px
-
-[SyncVsAsync-AfterAsyncDelivery1]: SyncVsAsync-AfterAsyncDelivery1.png width=421px height=97px
-
-[PathBC]: PathBC.png width=281px height=616px
-
-[PathCB]: PathCB.png width=274px height=626px
 
 [^fn1]: The oval labelled "input".
 
