@@ -1,6 +1,3 @@
-pinc.md
-
-
 call-return-spaghetti.md
 scalability.md
 five-whys-of-software-components.md
