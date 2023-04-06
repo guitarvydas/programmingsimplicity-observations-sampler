@@ -49,3 +49,33 @@ The primitive programming tools and IDE were slow, but, orders of magnitude fast
 
 Other drawbacks included blisters on fingers.  Recently soldered nodes would remain hot for a while and would create blisters if touched too soon.
 
+
+##  Toggle Switches (Advanced Programming)
+
+
+Toggle switches were used to replace soldering of wires.[^jz]
+
+{width: 40%}
+![On-Off_Switch.jpg| 130](resources/On-Off_Switch.jpg)
+
+[^jz]:Jason Zack at en.wikipedia, CC BY-SA 2.5 <https://creativecommons.org/licenses/by-sa/2.5>, via Wikimedia Commons
+
+Revelation: toggle switches had 2 states "OFF" and "ON".
+
+Revelation: arranging toggle switches in sequential and parallel combinations produced physical equivalents of Boolean Logic (AND and OR functionality).
+
+![Boolean](resources/Boolean.svg)
+
+
+## Breadboards (Advanced Programming)
+
+
+Breadboards were used to allow moving and reconnecting wires without the need to solder.[^pengxh]
+
+{width: "70%"}
+![Breadboards](resources/Breadboard_in_our_experiment.jpg)
+
+
+[^pengxh]: https://commons.wikimedia.org/wiki/File:Breadboard_in_our_experiment.jpg
+
+This was faster than programming by soldering, but, it was more expensive.
