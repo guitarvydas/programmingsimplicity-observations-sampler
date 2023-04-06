@@ -167,3 +167,8 @@
 		-   audience member yelled "play Aqualung" during the new intro
 	-   songs continue to evolve
 ---
+## Appendix
+### Appendix - DI
+Design Intent
+
+[https://guitarvydas.github.io/2021/04/11/DI.html](https://guitarvydas.github.io/2021/04/11/DI.html)
