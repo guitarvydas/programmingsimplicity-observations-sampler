@@ -210,6 +210,7 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/fdd-full.md",
     "manuscript/#pinc.md#",
     "manuscript/#call-return-spaghetti.md#",
     "manuscript/pinc.md~",
@@ -223,7 +224,6 @@
     "manuscript/assembler.md~",
     "pinc~",
     "pinc",
-    "ucheck.c~",
     "manuscript/toggle_switches.md",
     "manuscript/programming_is_not_coding.md",
     "manuscript/other_syntaxes_hold_1.md",
