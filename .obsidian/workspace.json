@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "componentbasedprogramming/manuscript/routing.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "componentbasedprogramming/manuscript/routing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "componentbasedprogramming/manuscript/routing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "componentbasedprogramming/manuscript/routing.md"
               }
             }
           }
@@ -210,51 +210,51 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "componentbasedprogramming/manuscript/book.md",
+    "componentbasedprogramming/manuscript/basics.md",
+    "manuscript/book.md",
+    "componentbasedprogramming/manuscript/abstraction.md",
+    "componentbasedprogramming/manuscript/feedback.md",
+    "componentbasedprogramming/manuscript/smp.md",
+    "componentbasedprogramming/manuscript/miscellany.md",
+    "componentbasedprogramming/manuscript/ruleof7.md",
+    "componentbasedprogramming/manuscript/thoughts.md",
+    "componentbasedprogramming/manuscript/fanin.md",
+    "componentbasedprogramming/manuscript/0d.md",
+    "componentbasedprogramming/manuscript/nc.md",
+    "componentbasedprogramming/manuscript/contact.md",
+    "componentbasedprogramming/manuscript/fanout.md",
+    "componentbasedprogramming/manuscript/resources/feedbacka.png",
+    "componentbasedprogramming/manuscript/resources/fanin.png",
+    "componentbasedprogramming/manuscript/resources/routinge.png",
+    "componentbasedprogramming/manuscript/resources/basic1.png",
+    "componentbasedprogramming/manuscript/resources/0d1.png",
+    "componentbasedprogramming/manuscript/resources/routingd.png",
+    "componentbasedprogramming/manuscript/resources/abstractionb.png",
+    "componentbasedprogramming/manuscript/resources/feedbackb.png",
+    "componentbasedprogramming/manuscript/resources/0d3.png",
+    "componentbasedprogramming/manuscript/resources/basic2.png",
+    "componentbasedprogramming/manuscript/resources/smpb.excalidraw",
+    "componentbasedprogramming/manuscript/resources/contact.excalidraw",
+    "componentbasedprogramming/manuscript/resources",
+    "componentbasedprogramming/manuscript/routing.md",
+    "componentbasedprogramming/manuscript",
+    "componentbasedprogramming",
+    "untitled folder",
     "manuscript/#fdd-full.md#",
     "manuscript/#fdd.md#",
     "manuscript/fdd-full.md",
     "manuscript/#pinc.md#",
     "manuscript/#call-return-spaghetti.md#",
-    "manuscript/pinc.md~",
     "manuscript/pinc.md",
     "manuscript/book-pinc.md",
     "manuscript/book-working.md",
-    "#pinc#",
-    "manuscript/other_syntaxes.md~",
-    "manuscript/high_level_languages.md~",
-    "manuscript/compilers.md~",
-    "manuscript/assembler.md~",
-    "pinc~",
     "manuscript/toggle_switches.md",
     "manuscript/programming_is_not_coding.md",
     "manuscript/other_syntaxes_hold_1.md",
     "manuscript/other_syntaxes.md",
     "manuscript/miniaturization.md",
     "manuscript/intro.md",
-    "manuscript/high_level_machines.md",
-    "manuscript/high_level_languages.md",
-    "manuscript/hci_-_keyboards_and_displays.md",
-    "manuscript/early_programming_of_computers.md",
-    "manuscript/early_machines.md",
-    "manuscript/compilers.md",
-    "manuscript/breadboards.md",
-    "manuscript/book_testing.md",
-    "manuscript/assembler.md",
-    "manuscript/resources/title_page.png",
-    "manuscript/resources/Vt100-adventure.jpg",
-    "manuscript/resources/Teletype.jpg",
-    "manuscript/resources/Qwerty_Keyboard.JPG",
-    "manuscript/resources/On-Off_Switch.jpg",
-    "manuscript/resources/Microchips.jpg.md",
-    "manuscript/resources/Microchips.jpg",
-    "manuscript/resources/IMG_0090.png",
-    "manuscript/resources/Clean_room.jpg",
-    "manuscript/resources/Breadboard_in_our_experiment.jpg",
-    "manuscript/resources/Boolean.svg",
-    "manuscript/book 1.md",
-    "manuscript/book.md",
-    "manuscript/triples.md",
-    "manuscript/leanpubfail.md",
-    "manuscript/triples 1.md"
+    "manuscript/high_level_machines.md"
   ]
 }
