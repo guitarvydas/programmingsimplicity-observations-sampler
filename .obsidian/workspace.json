@@ -149,8 +149,10 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
-    "manuscript/prolog-for-programmers.md",
+    "manuscript/programming_is_not_coding.md",
     "manuscript/book.md",
+    "preview downloaded/programmingsimplicity-observations-sampler-preview-2.pdf",
+    "manuscript/prolog-for-programmers.md",
     "manuscript/the-holy-grail.md",
     "manuscript/control-flow.md",
     "manuscript/control-flow 1.md",
@@ -170,14 +172,12 @@
     "manuscript/scalability.md",
     "manuscript/call-return-spaghetti.md",
     "manuscript/programming-is-not-coding.md",
-    "manuscript/programming_is_not_coding.md",
     "manuscript/book_testing.md",
     "preview downloaded/programmingsimplicityteasers-preview.pdf",
     "preview downloaded",
     "untitled folder",
     "manuscript/assembler.md",
     "type-checking.md",
-    "componentbasedprogramming/manuscript/routing.md",
     "componentbasedprogramming/manuscript/resources/feedbacka.png",
     "componentbasedprogramming/manuscript/resources/fanin.png",
     "componentbasedprogramming/manuscript/resources/routinge.png",
@@ -193,7 +193,6 @@
     "componentbasedprogramming/manuscript/resources",
     "componentbasedprogramming/manuscript",
     "componentbasedprogramming",
-    "manuscript/#fdd-full.md#",
-    "manuscript/#fdd.md#"
+    "manuscript/#fdd-full.md#"
   ]
 }
