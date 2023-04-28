@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/miniaturization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/miniaturization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/triples.md",
+                "file": "manuscript/miniaturization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/triples.md"
+                "file": "manuscript/miniaturization.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "manuscript/triples.md",
+    "preview downloaded/programmingsimplicity-observations-sampler-preview-2.pdf",
+    "programmingsimplicity-observations-sampler-preview-2.pdf",
     "manuscript/book.md",
     "manuscript/programming_is_not_coding.md",
     "manuscript/#triples.md#",
@@ -157,7 +160,6 @@
     "manuscript/triples1.md",
     "manuscript/triples1.m",
     "preview downloaded/programmingsimplicity-observations-sampler-preview.pdf",
-    "preview downloaded/programmingsimplicity-observations-sampler-preview-2.pdf",
     "preview downloaded/programmingsimplicityteasers-preview.pdf",
     "manuscript/prolog-for-programmers.md",
     "manuscript/the-holy-grail.md",
@@ -167,8 +169,6 @@
     "manuscript/why-do-we-use-text-for-programming-languages.md",
     "manuscript/compilers-too-slow.md",
     "manuscript/agile-takeaways.md",
-    "manuscript/triples.md",
-    "manuscript/triples.md",
     "manuscript/universal-datatype.md",
     "manuscript/factbases.md",
     "manuscript/dryvscbp.md",
@@ -192,7 +192,6 @@
     "componentbasedprogramming/manuscript/resources/feedbackb.png",
     "componentbasedprogramming/manuscript/resources/0d3.png",
     "componentbasedprogramming/manuscript/resources/basic2.png",
-    "componentbasedprogramming/manuscript/resources/smpb.excalidraw",
-    "componentbasedprogramming/manuscript/resources/contact.excalidraw"
+    "componentbasedprogramming/manuscript/resources/smpb.excalidraw"
   ]
 }

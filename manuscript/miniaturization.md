@@ -24,3 +24,5 @@ The solution to this problem is to use clean rooms.  Clean rooms keep dust out w
 The drawback of using clean rooms and miniaturization is that they are very expensive.
 
 Only a few startups could afford to pay for clean rooms, e.g. Motorola, Fairchild, National Semiconductor, Texas Instruments, Mitel, etc.
+
+You can build non-miniature transistors at home without needing a clean room.  Jeri Ellsworth shows how https://www.youtube.com/watch?v=w_znRopGtbE.  The catch is that you won't build 1,000s of big transistors this way and, therefore, won't benefit from the economies of scale.  A laptop computer these days has billions of transistors in it, and, it fits on your lap.  To build a laptop, you need to make lots of transistors that are very tiny.  And, you need to find a way to do this that makes the result affordable to regular people.
