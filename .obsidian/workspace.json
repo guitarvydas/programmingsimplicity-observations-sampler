@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/fdd.md",
+                "file": "manuscript/book.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 352.5
   },
   "right": {
     "id": "37a8cc4adaba4e26",
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/fdd.md",
+                "file": "manuscript/book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/fdd.md",
+                "file": "manuscript/book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/fdd.md"
+                "file": "manuscript/book.md"
               }
             }
           }
@@ -222,8 +222,12 @@
   },
   "active": "2610d02fcd840a71",
   "lastOpenFiles": [
-    "type-checking.md",
+    "manuscript/book 1.md",
     "manuscript/book.md",
+    "manuscript/assembler.md",
+    "manuscript/agile-takeaways.md",
+    "manuscript/fdd.md",
+    "type-checking.md",
     "componentbasedprogramming/manuscript/routing.md",
     "componentbasedprogramming/manuscript/book.md",
     "componentbasedprogramming/manuscript/basics.md",
@@ -263,10 +267,6 @@
     "manuscript/book-pinc.md",
     "manuscript/book-working.md",
     "manuscript/toggle_switches.md",
-    "manuscript/programming_is_not_coding.md",
-    "manuscript/other_syntaxes_hold_1.md",
-    "manuscript/other_syntaxes.md",
-    "manuscript/miniaturization.md",
-    "manuscript/intro.md"
+    "manuscript/programming_is_not_coding.md"
   ]
 }
