@@ -1,5 +1,5 @@
 
-# Other Syntaxes
+## Other Syntaxes
 
 Random comments about miscellaneous syntaxes / technologies ...
 

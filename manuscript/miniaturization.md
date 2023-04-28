@@ -1,5 +1,5 @@
 
-# Miniaturization (Super Advanced Programming)
+## Miniaturization (Super Advanced Programming)
 
 
 Switches were miniaturized down to the size of dust particles.[^zephyris]

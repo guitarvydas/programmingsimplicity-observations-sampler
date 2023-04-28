@@ -1,4 +1,4 @@
-# Assembler (Ultra Advanced Programming)
+## Assembler (Ultra Advanced Programming)
 
 Revelation: strings of bytes (e.g. ASCII) could be "parsed" to convert mnemonic words into binary opcodes.
 

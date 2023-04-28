@@ -1,5 +1,5 @@
 
-# HCI - Human Computer Interfaces - Keyboards and Displays
+## HCI - Human Computer Interfaces - Keyboards and Displays
 
 
 Problem #1: Ultra-small switches were too small for humans to interact with.

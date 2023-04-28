@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/miniaturization.md",
+                "file": "manuscript/compilers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/miniaturization.md",
+                "file": "manuscript/compilers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/miniaturization.md",
+                "file": "manuscript/compilers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/miniaturization.md"
+                "file": "manuscript/compilers.md"
               }
             }
           }
@@ -149,10 +149,25 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
+    "title svg/programming simplicity sampler.svg",
+    "title svg",
+    "untitled folder",
+    "manuscript/book.md",
+    "manuscript/other_syntaxes.md",
+    "manuscript/high_level_languages.md",
+    "manuscript/assembler.md",
+    "manuscript/hci_-_keyboards_and_displays.md",
+    "manuscript/miniaturization.md",
+    "manuscript/breadboards.md",
+    "manuscript/toggle_switches.md",
+    "manuscript/early_programming_of_computers.md",
+    "manuscript/high_level_machines.md",
+    "manuscript/early_machines.md",
+    "manuscript/title_page.png",
+    "manuscript/resources/title_page.png",
     "manuscript/triples.md",
     "preview downloaded/programmingsimplicity-observations-sampler-preview-2.pdf",
     "programmingsimplicity-observations-sampler-preview-2.pdf",
-    "manuscript/book.md",
     "manuscript/programming_is_not_coding.md",
     "manuscript/#triples.md#",
     "manuscript/triples.md~",
@@ -171,17 +186,7 @@
     "manuscript/agile-takeaways.md",
     "manuscript/universal-datatype.md",
     "manuscript/factbases.md",
-    "manuscript/dryvscbp.md",
-    "manuscript/git-could-do-more.md",
-    "manuscript/book 1.md",
-    "manuscript/book-working.md",
-    "manuscript/five-whys-of-software-components.md",
-    "manuscript/scalability.md",
-    "manuscript/call-return-spaghetti.md",
-    "manuscript/programming-is-not-coding.md",
-    "manuscript/book_testing.md",
     "preview downloaded",
-    "untitled folder",
     "componentbasedprogramming/manuscript/resources/feedbacka.png",
     "componentbasedprogramming/manuscript/resources/fanin.png",
     "componentbasedprogramming/manuscript/resources/routinge.png",
@@ -189,9 +194,6 @@
     "componentbasedprogramming/manuscript/resources/0d1.png",
     "componentbasedprogramming/manuscript/resources/routingd.png",
     "componentbasedprogramming/manuscript/resources/abstractionb.png",
-    "componentbasedprogramming/manuscript/resources/feedbackb.png",
-    "componentbasedprogramming/manuscript/resources/0d3.png",
-    "componentbasedprogramming/manuscript/resources/basic2.png",
-    "componentbasedprogramming/manuscript/resources/smpb.excalidraw"
+    "componentbasedprogramming/manuscript/resources/feedbackb.png"
   ]
 }

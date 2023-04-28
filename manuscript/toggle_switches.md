@@ -1,5 +1,5 @@
 
-#  Toggle Switches (Advanced Programming)
+## Toggle Switches (Advanced Programming)
 
 
 Toggle switches were used to replace soldering of wires.[^jz]
