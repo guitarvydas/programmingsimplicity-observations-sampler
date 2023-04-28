@@ -1,4 +1,3 @@
-# Programming Is Not Coding
 The ground truth is *programming*, not *coding*.
 
 The goal of programming is to control a machine.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/triples.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/triples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manuscript/book.md",
+                "file": "manuscript/triples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manuscript/book.md"
+                "file": "manuscript/triples.md"
               }
             }
           }
@@ -149,9 +149,16 @@
   },
   "active": "8b99f37079d18ad4",
   "lastOpenFiles": [
-    "manuscript/programming_is_not_coding.md",
     "manuscript/book.md",
+    "manuscript/programming_is_not_coding.md",
+    "manuscript/#triples.md#",
+    "manuscript/triples.md~",
+    "manuscript/triples-old.md",
+    "manuscript/triples1.md",
+    "manuscript/triples1.m",
+    "preview downloaded/programmingsimplicity-observations-sampler-preview.pdf",
     "preview downloaded/programmingsimplicity-observations-sampler-preview-2.pdf",
+    "preview downloaded/programmingsimplicityteasers-preview.pdf",
     "manuscript/prolog-for-programmers.md",
     "manuscript/the-holy-grail.md",
     "manuscript/control-flow.md",
@@ -173,11 +180,8 @@
     "manuscript/call-return-spaghetti.md",
     "manuscript/programming-is-not-coding.md",
     "manuscript/book_testing.md",
-    "preview downloaded/programmingsimplicityteasers-preview.pdf",
     "preview downloaded",
     "untitled folder",
-    "manuscript/assembler.md",
-    "type-checking.md",
     "componentbasedprogramming/manuscript/resources/feedbacka.png",
     "componentbasedprogramming/manuscript/resources/fanin.png",
     "componentbasedprogramming/manuscript/resources/routinge.png",
@@ -189,10 +193,6 @@
     "componentbasedprogramming/manuscript/resources/0d3.png",
     "componentbasedprogramming/manuscript/resources/basic2.png",
     "componentbasedprogramming/manuscript/resources/smpb.excalidraw",
-    "componentbasedprogramming/manuscript/resources/contact.excalidraw",
-    "componentbasedprogramming/manuscript/resources",
-    "componentbasedprogramming/manuscript",
-    "componentbasedprogramming",
-    "manuscript/#fdd-full.md#"
+    "componentbasedprogramming/manuscript/resources/contact.excalidraw"
   ]
 }

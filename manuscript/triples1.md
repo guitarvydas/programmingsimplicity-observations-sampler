@@ -2,13 +2,11 @@
 
 Triples are everywhere, albeit optimized into oblivion.
 
-Compiler-people like triples.
+The major simplicity that I have known for years - and unable to express succinctly - is that compiler-people like triples.
 
-For example, `MOV R0,R1` is a triple (relation=`MOV`, subject=`R0`, object=`R1`).
+I, also, call this *divide and conquer*[^t1].  
 
-Triples are like the *atoms* of programming.  If you want to know what the nuts and bolts are, you look at the atoms. If you want to build things, though, you use *molecules* based on *atoms*.
-
-This is simply a form of *divide and conquer*.  
+[^t1]: If you think of a better way to say that, let me know!
 
 ## XML
 
@@ -63,12 +61,12 @@ Waste computer-time, not human-time.
 
 ## Data Structures
 
-Data structures are just optimizations of triples.
+Data structures are just optimizations of triples
 
 Data structures at compile-time are
 
 * 1950's notions of how to optimize for CPU usage
-* Design Intent (more human-readable, but hard to automatically optimize).
+* Design Intent (more human-readable, but hard to automatically optimize)
 
 ## Curried Functions
 
@@ -87,18 +85,18 @@ Even curried functions are triples
 
 ## PROLOG
 
-PROLOG allows you to go into feature-itis, creating quadruples, quintuples, etc., but they are just optimizations of things that are fundamentally triples.
+PROLOG allows you to go into feature-itis, creating quadruples, quituples, etc., but they are just optimizations of things that are fundamentally triples.
 
 Anything in PROLOG that is "more than" a triple is a layer.
 
 PROLOG is (can be):
 
-* describing a problem as relations (triples)
-* wasting CPU power rebuilding data structures (better than wasting human intellectual power).
+* describe problem as relations (triples)
+* waste CPU power rebuilding data structures (better than wasting human intellectual power).
 
 ## Human Readability
 
 Humans shouldn't have to read triples.  
 
-But, if you deconstruct everything into triples, then it becomes easier to write DSLs and the like.  DSLs and languages are simply syntactic skins wrapped over bags of nuts and bolts (triples).
+But, if you deconstruct everything into triples, then it becomes easier to write DSLs and the like.
 
