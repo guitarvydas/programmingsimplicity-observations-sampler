@@ -1,4 +1,5 @@
-pinc.md
+
+programming-is-not-coding.md
 call-return-spaghetti.md
 scalability.md
 five-whys-of-software-components.md
@@ -11,4 +12,6 @@ agile-takeaways.md
 compilers-too-slow.md
 why-do-we-use-text-for-programming-languages.md
 fdd.md
-type-checking.md
+prolog-for-programmers.md
+the-holy-grail.md
+control-flow.md
